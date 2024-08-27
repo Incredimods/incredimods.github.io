@@ -1,0 +1,1090 @@
+[
+    {
+        "name": "Airline (Arbox E2)",
+        "availability": "downloadable",
+        "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode2.apk",
+        "creator": "RB - Series (pedo)",
+        "names": [
+            "airline arbox"
+        ]
+    },
+    {
+        "name": "Alpha Remake",
+        "availability": "unfinished",
+        "url": "https://youtu.be/8zB2Urco43g",
+        "original": "Alpha (v1) from Official Incredibox",
+        "creator": "ToonJam",
+        "names": [
+            "alpha remake"
+        ]
+    },
+    {
+        "name": "Anniversary",
+        "availability": "downloadable",
+        "android": "https://www.mediafire.com/download/4w24bqlhz5y34lo",
+        "creator": "Rem",
+        "names": [
+            "anniversary"
+        ]
+    },
+    {
+        "name": "Anxiety",
+        "url": "https://www.youtube.com/watch?v=HvtDxFh4CtM",
+        "availability": "downloadable",
+        "android": "https://www.mediafire.com/file/gxv05kvhju2s2vo/com.TheLastShow.incredibox.apk/file",
+        "windows": "https://www.mediafire.com/file/fupq56utukur0ps/incredibox+-+Anxiety(PC+port).zip/file",
+        "creator": "The Last Show",
+        "names": [
+            "anxiety"
+        ]
+    },
+    {
+        "name": "The Armed Forces (Arbox E4)",
+        "availability": "downloadable",
+        "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode4.apk",
+        "creator": "RB - Series (pedo)",
+        "names": [
+            "the armed forces arbox"
+        ]
+    },
+    {
+        "name": "Arvo",
+        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=qMb1znJnwtg",
+        "notes": "Inspired by RB (pedo)",
+        "creator": "ShaunNew",
+        "names": [
+            "arvo"
+        ]
+    },
+    {
+        "name": "Ascension (Foreverbox E2)",
+        "webapp": "https://joalor64gh.github.io/Foreverbox/",
+        "android": "https://mega.nz/file/GeB1hIQI#_1doR18TWxRespbA2Vepzq0Ph_7W3Bm2h8jmo0_1zaw",
+        "windows": "https://mega.nz/file/fHghmCpL#AK8fCsP24j0tRh_h-nXtDOeoxtW_76RD16Ca3jhsAec",
+        "availability": "downloadable",
+        "url": "https://www.youtube.com/watch?v=siJqzpB51nU",
+        "creator": "Joalor64 YT",
+        "names": [
+            "ascension foreverbox e2"
+        ]
+    },
+    {
+        "name": "Augury (Arbox E3)",
+        "availability": "downloadable",
+        "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode3.apk",
+        "creator": "RB - Series (pedo)",
+        "names": [
+            "augury arbox"
+        ]
+    },
+    {
+        "name": "Axiom (Original)",
+        "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/Axiom/Floodbox_v1.apk",
+        "availability": "demo",
+        "creator": "UnusD3v",
+        "notes": "Cancelled.",
+        "names": [
+            "axiom (original)"
+        ]
+    },
+    {
+        "name": "Axiom (Remake)",
+        "url": "https://www.youtube.com/watch?v=1_zy3Iia2OY",
+        "availability": "unfinished",
+        "creator": "Blitz3433",
+        "original": "Axiom",
+        "original_url": "https://modindex.boogoxseal.xyz/#axiom%20(original)",
+        "names": [
+            "axiom (remake)"
+        ]
+    },
+    {
+        "name": "Azoic",
+        "url": "https://www.youtube.com/shorts/znXumLnO_MA",
+        "availability": "unfinished",
+        "creator": "Gumi",
+        "names": [
+            "azoic"
+        ]
+    },
+    {
+        "name": "Azurite",
+        "android": "https://www.mediafire.com/file/98q7l15utodjfdn/Unusbox+-+Azurite_signed.apk/file",
+        "availability": "downloadable",
+        "creator": "UnusD3v",
+        "names": [
+            "azurite"
+        ]
+    },
+    {
+        "name": "Balls",
+        "availability": "unavailable",
+        "creator": "Rem & PersonFromBrazil",
+        "notes": "Removed as per the request of Rem.",
+        "names": [
+            "balls"
+        ]
+    },
+    {
+        "name": "Battle (Foreverbox V1)",
+        "webapp": "https://joalor64gh.github.io/Foreverbox/",
+        "android": "https://mega.nz/file/SP40jIIQ#CEsEoQimucu_k7lR3Vi_7sQMOiQmm1p9UaxlRIaeMek",
+        "windows": "https://mega.nz/file/WDQBgARY#6Ms7zx2qEg6pyOgFNrjQVXQSGg3J8IheM8KF-fHCNx4",
+        "availability": "downloadable",
+        "url": "https://www.youtube.com/watch?v=68p4-edy-zo",
+        "creator": "Joalor64 YT",
+        "names": [
+            "battle foreverbox v1"
+        ]
+    },
+    {
+        "name": "Beatnik",
+        "url": "https://www.youtube.com/watch?v=p0O_PDnqmE4",
+        "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/Beatnik/Beatnik-android.apk",
+        "windows": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/Beatnik/Beatnik-windows.zip",
+        "mac": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/BeatnikMac/Beatnik-mac.zip",
+        "webapp": "https://sealldeveloper.github.io/incredibox-webapps/beatnik",
+        "availability": "downloadable",
+        "creator": "BOOGO x SEAL",
+        "names": [
+            "beatnik"
+        ]
+    },
+    {
+        "name": "The Beats of Incredimen V3",
+        "url": "https://www.youtube.com/watch?v=rexvf2thODU",
+        "android": "https://www.mediafire.com/file/8p5vnm02biajown/The+Beats+Of+Incredimen+V3_signed.apk/file",
+        "windows": "https://www.mediafire.com/file/v8n2w2y52oa2xvd/TBOI+V3+PC.zip/file",
+        "availability": "downloadable",
+        "creator": "Hanta Nyaw 44",
+        "names": [
+            "the beats of incredimen v3"
+        ]
+    },
+    {
+        "name": "The Bells",
+        "availability": "downloadable",
+        "windows": "https://www.mediafire.com/file/jmdgbn07xr0o3iv/Incredibox_-_Chrismtas_2.0_PC.zip/file",
+        "android": "https://www.mediafire.com/download/sl8753jcl0ye86t",
+        "creator": "Rem",
+        "names": [
+            "the bells"
+        ]
+    },
+    {
+        "name": "Blinding Lights (Concepter)",
+        "url": "https://www.youtube.com/watch?v=ySHxobMmxxs",
+        "availability": "unfinished",
+        "creator": "Concepter",
+        "original": "Blinding Lights (RB)",
+        "original_url": "https://modindex.boogoxseal.xyz/#blinding%20lights%20(rb)",
+        "song": "Blinding Lights by The Weeknd",
+        "names": [
+            "blinding lights (concepter)"
+        ]
+    },
+    {
+        "name": "Blinding Lights (RB)",
+        "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxIconSeries-Android-v2.0.apk",
+        "availability": "downloadable",
+        "creator": "RB - Series (pedo)",
+        "notes": "Missing polos.",
+        "song": "Blinding Lights by The Weeknd",
+        "names": [
+            "blinding lights (rb)"
+        ]
+    },
+    {
+        "name": "Bonfire (Coldbox)",
+        "availability": "downloadable",
+        "creator": "ColdSeamer",
+        "windows": "https://www.mediafire.com/file/kst2v5sdfcom8q9/Coldbox+-+PC+Port.zip/file",
+        "android": "https://www.mediafire.com/file/0j86glp0wtja8ig/Coldbox_fixed.apk/file",
+        "names": [
+            "bonfire coldbox"
+        ]
+    },
+    {
+        "name": "Botanic",
+        "url": "https://www.youtube.com/watch?v=Mtum0Q4Nf_c",
+        "creator": "IQbit",
+        "availability": "unfinished",
+        "names": [
+            "botanic"
+        ]
+    },
+    {
+        "name": "Bumfuzzle (Trillybox v4)",
+        "android": "https://drive.google.com/file/d/1OApJnS3xFsiV0CG3g1284DTDNT7LBZF3/view",
+        "url": "https://www.youtube.com/watch?si=79bDY9I9eMRCseSA",
+        "creator": "ThatAnonym0usMan",
+        "availability": "downloadable",
+        "original": "Bumfuzzle by InfinityChubs88",
+        "original_url": "https://scratch.mit.edu/projects/870051639/",
+        "names": [
+            "bumfuzzle trillybox v4"
+        ]
+    },
+    {
+        "name": "Caves",
+        "availability": "unfinished",
+        "url": "https://www.youtube.com/shorts/e0mrVN9owbU",
+        "creator": "AzuriteDeIdiot",
+        "names": [
+            "caves"
+        ]
+    },
+    {
+        "name": "The Clock",
+        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=5_vVvmE537o",
+        "song": "The Clcok by Incredible Polo",
+        "creator": "deepthought",
+        "names": [
+            "the clock"
+        ]
+    },
+    {
+        "name": "The Crime",
+        "availability": "downloadable",
+        "android": "https://www.mediafire.com/file/gin6w4futbrjb9r/Incredibox+-+The+Crime_signed.apk/file",
+        "windows": "https://www.mediafire.com/file/16ceizye79yjnke/Incredibox_-_The_Crime_v1.0.1_%2528PC%2529.zip/file",
+        "url": "https://sites.google.com/view/unsolvedcases/home?authuser=0",
+        "creator": "R.K.",
+        "names": [
+            "the crime"
+        ]
+    },
+    {
+        "name": "Cursedbox",
+        "android": "https://www.mediafire.com/file/draujs14ure60ot/cursedbox+0.5.0+(com.sofarsogood.cursed).apk/file",
+        "availability": "downloadable",
+        "names": [
+            "cursedbox"
+        ]
+    },
+    {
+        "name": "Darktech (Darkbox V1)",
+        "availability": "unfinished",
+        "url": "https://youtu.be/Ssu3McxQ4jA",
+        "creator": "Incredible Beatboxer",
+        "names": [
+            "darktech darkbox v1"
+        ]
+    },
+    {
+        "name": "Deep Blue",
+        "url": "https://www.youtube.com/watch?v=PuG7d7-tWRU",
+        "availability": "unfinished",
+        "creator": "ColdSeamer",
+        "song": "Deep Blue by Incredible Polo",
+        "names": [
+            "deep blue"
+        ]
+    },
+    {
+        "name": "Deluxe",
+        "android": "https://www.mediafire.com/file/wdjrdqq4c7acclj/Incredibox+Deluxe+v8+update_signed.apk/file",
+        "windows": "https://www.mediafire.com/file/bhntwfaubp6psdh/Incredibox+-+Deluxe+-+Dystopia+Update+-+PC.zip/file",
+        "availability": "partially",
+        "creator": "Niki",
+        "notes": "Missing v9.",
+        "names": [
+            "deluxe"
+        ]
+    },
+    {
+        "name": "Doing It Right",
+        "url": "https://www.youtube.com/shorts/OTWCJ3OS0Wg",
+        "availability": "unfinished",
+        "creator": "SlicedLimez",
+        "names": [
+            "doing it right"
+        ]
+    },
+    {
+        "name": "Downtown (PFB's Workshop V1)",
+        "url": "https://www.youtube.com/watch?v=sjoeH0Cs6eM",
+        "availability": "downloadable",
+        "windows": "https://www.mediafire.com/file/syez2ktc093rnb9/PFBs_Workshop_v1.0.0_%2528PC%2529.zip/file",
+        "android": "https://www.mediafire.com/file/1gecnl49rum57dc/PFBs_Workshop_v1.0.0_%2528Android%2529.apk/file",
+        "creator": "PersonFromBrazil",
+        "names": [
+            "downtown pfbs workshop v1"
+        ]
+    },
+    {
+        "name": "Dystopia (Remakedbox V8)",
+        "url": "https://www.youtube.com/watch?v=lPbdpKklOKY",
+        "mac": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/Remakedbox/IncrediboxRemakedbox-Mac.zip",
+        "windows": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/Remakedbox/IncrediboxRemakedbox-Windows.zip",
+        "availability": "partially",
+        "notes": "Asset folders were found, but some assets are missing aswell as potential pictos.",
+        "creator": "LTFD",
+        "names": [
+            "dystopia remakedbox V8"
+        ]
+    },
+    {
+        "name": "Elementals",
+        "creator": "Disel",
+        "url": "https://www.youtube.com/watch?v=d7WMYBdLn_w",
+        "availability": "unfinished",
+        "names": [
+            "elementals"
+        ]
+    },
+    {
+        "name": "Evadare (Demo)",
+        "android": "https://www.mediafire.com/download/wnr4e68d952abqx",
+        "availability": "demo",
+        "creator": "Rem",
+        "names": [
+            "evadare demo (demo)"
+        ]
+    },
+    {
+        "name": "Evadare (Evadre E1)",
+        "windows": "https://www.mediafire.com/file/jmjv60sfhysizdg/Xrun-PC.zip/file",
+        "android": "https://www.mediafire.com/file/tpvvxyv8dcvszum/Incredibox_-_Xrun_Update_%255BRem%255D.apk/file",
+        "webapp": "https://www.incredirem.com/mods/evadare",
+        "availability": "downloadable",
+        "creator": "Rem",
+        "names": [
+            "evadare e1"
+        ]
+    },
+    {
+        "name": "Express",
+        "url": "https://www.youtube.com/watch?v=88EExu3ePE8",
+        "windows": "https://www.mediafire.com/file/25ay2wtyije8xbt/EXPRESS_PC_PORT.zip/file",
+        "android": "https://www.mediafire.com/file/9oroufv79e9100m/IncrediRealm+-+Express+(Android+1.1).apk/file",
+        "availability": "downloadable",
+        "creator": "Splatjack",
+        "names": [
+            "express"
+        ]
+    },
+    {
+        "name": "Fields of the Ground",
+        "availability": "downloadable",
+        "url": "https://www.youtube.com/watch?v=lcxFQRHEn3g",
+        "android": "https://www.mediafire.com/file/egpfl6fbanm8zr8/Incredibox+-+Fields+of+the+Ground+Release_signed.apk/file",
+        "creator": "Endok Kopyor",
+        "names": [
+            "fields of the ground"
+        ]
+    },
+    {
+        "name": "Flashbacks (Kudabox V1)",
+        "availability": "demo",
+        "android": "https://drive.google.com/file/d/1fu5brggBYe4DNfEJXThwqAoSjtZM5bOF/view",
+        "url": "https://www.youtube.com/watch?v=FntgIENXMDk",
+        "creator": "GREENORANGE",
+        "names": [
+            "flashbacks kudabox v1"
+        ]
+    },
+    {
+        "name": "Galaxy",
+        "android": "https://www.mediafire.com/download/lmthwk5cb2w7ass",
+        "availability": "downloadable",
+        "creator": "Rem",
+        "names": [
+            "galaxy"
+        ]
+    },
+    {
+        "name": "Galerij",
+        "url": "https://www.youtube.com/watch?v=Eu_1edhYdxg",
+        "availability": "downloadable",
+        "windows": "https://www.mediafire.com/file/aeek0s5v6059zsa/Galerij-PC.zip/file",
+        "android": "https://www.mediafire.com/file/9n0c9ms93bte30c/Galerij_-_Incredibox.apk/file",
+        "creator": "SlicedLimez",
+        "names": [
+            "galerij"
+        ]
+    },
+    {
+        "name": "Gangbox",
+        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=B8FqXfG_1jg",
+        "creator": " ®رضۣۗـۙــــآ#",
+        "names": [
+            "gangbox"
+        ]
+    },
+    {
+        "name": "Geek Dance",
+        "availability": "downloadable",
+        "creator": "LTFD",
+        "song": "Geek Dance by Incredible Polo",
+        "windows": "https://www.mediafire.com/file/jkkmcg1obvucmup/Geek_Dance_PC.zip/file",
+        "android": "https://www.mediafire.com/file/cgg28bkefi6rzdn/Geek_Dance_-_V_1.0.apk/file",
+        "names": [
+            "geek dance"
+        ]
+    },
+    {
+        "name": "Groovbox",
+        "url": "https://www.youtube.com/watch?v=2388l-uqBb8",
+        "availability": "unfinished",
+        "creator": "Deadeye",
+        "song": "the SFX from GroovePad",
+        "names": [
+            "groovbox"
+        ]
+    },
+    {
+        "name": "Homemade",
+        "availability": "downloadable",
+        "creator": "Pickyradish",
+        "android": "https://www.mediafire.com/file/imczs5txulxh7tt/Incredibox_-_Homemade_versions.apk/file",
+        "url": "https://www.youtube.com/watch?v=gy35DuoaEiw",
+        "names": [
+            "hv8"
+        ]
+    },
+    {
+        "name": "Ignis",
+        "android": "https://www.mediafire.com/file/hlvlwxpw9gspcqs/ignis.apk/file",
+        "availability": "downloadable",
+        "creator": "UnusD3v",
+        "names": [
+            "ignis"
+        ]
+    },
+    {
+        "name": "Incredibox Extended Bonuses Mod",
+        "url": "https://www.youtube.com/watch?v=b9bOpSKKv6Y",
+        "availability": "lost",
+        "notes": "Download link is dead.",
+        "creator": "The Incredi Modmakers",
+        "names": [
+            "incredibox extended bonuses mod"
+        ]
+    },
+    {
+        "name": "The Invasion (Arbox E1)",
+        "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode1.apk",
+        "availability": "downloadable",
+        "creator": "RB - Series (pedo)",
+        "names": [
+            "invasion arbox"
+        ]
+    },
+    {
+        "name": "Jura",
+        "android": "https://www.mediafire.com/file/c58lty1x5elt8ae/Incredibox_Jura.apk/file",
+        "availability": "downloadable",
+        "creator": "UnusD3v",
+        "names": [
+            "jura"
+        ]
+    },
+    {
+        "name": "Karuk",
+        "url": "https://www.youtube.com/watch?v=galKsFUlCWA",
+        "availability": "unfinished",
+        "creator": "Team Averill",
+        "names": [
+            "karuk"
+        ]
+    },
+    {
+        "name": "Laboratory (Casbox V1)",
+        "creator": "Lucasto",
+        "url": "https://youtu.be/XRaTQEXiR3c",
+        "availability": "unfinished",
+        "names": [
+            "laboratory casbox v1"
+        ]
+    },
+    {
+        "name": "The Last Day",
+        "availability": "downloadable",
+        "song": "The Last Day by Incredible Polo",
+        "creator": "PersonFromBrazil",
+        "android": "https://www.mediafire.com/file/5a5rhzmav4tjahd/Incredibox_-_The_Unreleased_v1.0.0_Android.apk/file",
+        "windows": "https://www.mediafire.com/file/t0lengj03k3or02/Incredibox_-_The_Unreleased_v1.0.0_PC.zip/file",
+        "names": [
+            "the last day"
+        ]
+    },
+    {
+        "name": "The Lightners (Liobox V1)",
+        "availability": "downloadable",
+        "creator": "Coolio the Incrediboxer",
+        "url": "https://www.youtube.com/watch?v=SzZeaHU3LWc",
+        "android": "https://drive.google.com/file/d/1WAWLNcDIJ0FnR2PWKD6iDIXgfTMvNmMu/view",
+        "windows": "https://drive.google.com/file/d/1rfLl0rYKe9Xy8SHj9LEDnr3Gz5r1Br-S/view",
+        "names": [
+            "the lightners liobox v1"
+        ]
+    },
+    {
+        "name": "Mana",
+        "availability": "lost",
+        "url": "https://www.youtube.com/watch?v=8cS1zG7Jr3I",
+        "original": "Travis",
+        "original_url": "https://modindex.boogoxseal.xyz/#travis",
+        "notes": "Cancelled. Due to Artemiy's personal disapproval of the recration of his mod. A link could be out there.",
+        "creator": "Xiluju",
+        "names": [
+            "mana"
+        ]
+    },
+    {
+        "name": "The Masks",
+        "windows": "https://www.mediafire.com/download/k7jvr1he83bovr9",
+        "android": "https://www.mediafire.com/download/pr4xfyuf297l101",
+        "availability": "downloadable",
+        "creator": "BonBonnet",
+        "names": [
+            "the masks"
+        ]
+    },
+    {
+        "name": "Mechanic (Coldbox)",
+        "availability": "downloadable",
+        "windows": "https://www.mediafire.com/file/kst2v5sdfcom8q9/Coldbox+-+PC+Port.zip/file",
+        "android": "https://www.mediafire.com/file/0j86glp0wtja8ig/Coldbox_fixed.apk/file",
+        "creator": "ColdSeamer",
+        "names": [
+            "mechanic coldbox"
+        ]
+    },
+    {
+        "name": "Mice on Venus",
+        "url": "https://youtube.com/shorts/hmsB4BfGbBc",
+        "availability": "unfinished",
+        "song": "Mice on Venus by C418",
+        "creator": "mustafa_the_regular",
+        "names": [
+            "mice on venus"
+        ]
+    },
+    {
+        "name": "Moltentop",
+        "url": "https://www.youtube.com/watch?v=Q27sUHhI3jo",
+        "availability": "unfinished",
+        "creator": "Meddlebox Concepts",
+        "names": [
+            "moltentop"
+        ]
+    },
+    {
+        "name": "Mono",
+        "windows": "https://www.mediafire.com/file/0yx8r2sb2djwkjw/real_mono_full_demo.zip/file",
+        "availability": "demo",
+        "creator": "Apollo the polo",
+        "names": [
+            "mono"
+        ]
+    },
+    {
+        "name": "Monochrome",
+        "url": "https://youtu.be/sX596RCybXA",
+        "creator": "Mr_ERROR",
+        "availability": "unfinished",
+        "names": [
+            "monochrome"
+        ]
+    },
+    {
+        "name": "Noteboxers",
+        "android": "https://www.mediafire.com/file/kgc3vy9433lswbw/Noteboxers.apk/file",
+        "availability": "partially",
+        "notes": "A Minecraft remake of Incredibox. Missing v9.",
+        "names": [
+            "noteboxers minecraft"
+        ]
+    },
+    {
+        "name": "Objects",
+        "android": "https://mega.nz/file/Qz1HFCiA#PhAuexNfsAnScdKS5VO4utN08ZLKn2DI7i8RQNXRtZQ",
+        "windows": "https://drive.google.com/file/d/1kxLdC0AZicaSpTxq93AS47lx8RLrvv9q/view",
+        "availability": "demo",
+        "names": [
+            "objects"
+        ]
+    },
+    {
+        "name": "Ocean Heart",
+        "availability": "downloadable",
+        "windows": "https://github.com/sealldeveloper/ocean-heart/releases/download/v1.0.0/IncrediboxOceanHeart-Windows-v1.0.0.zip",
+        "android": "https://github.com/sealldeveloper/ocean-heart/releases/download/v1.0.0/IncrediboxOceanHeart-Android-v1.0.0.apk",
+        "mac": "https://github.com/sealldeveloper/ocean-heart/releases/download/v1.0.0/IncrediboxOceanHeart-Mac-v1.0.0.zip",
+        "webapp": "https://sealldeveloper.github.io/ocean-heart/",
+        "url": "https://boogoxseal.xyz/mods/oceanheart",
+        "creator": "LexLim",
+        "names": [
+            "ocean heart"
+        ]
+    },
+    {
+        "name": "OLIIFSPEAK",
+        "creator": "BOOGO x SEAL",
+        "availability": "unfinished",
+        "url": "https://youtu.be/k9htg2rs_1A",
+        "names": [
+            "oliifspeak"
+        ]
+    },
+    {
+        "name": "The Original on Mobile",
+        "availability": "downloadable",
+        "android": "https://www.mediafire.com/download/ka4ilot3zhqoi06",
+        "creator": "Artemiy Kopych",
+        "song": "The original Flash version of Incredibox",
+        "names": [
+            "the originals on mobile"
+        ]
+    },
+    {
+        "name": "Petas",
+        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=JmwmL3kQ_gg",
+        "creator": "Petas",
+        "names": [
+            "petas"
+        ]
+    },
+    {
+        "name": "Piege",
+        "url": "https://boogoxseal.xyz/mods/piege",
+        "availability": "partially",
+        "creator": "Flow Studios",
+        "song": "Piege by Saro",
+        "notes": "Sprite issues with B5, massive lag on slower devices, some weird silhouettes.",
+        "windows": "https://github.com/sealldeveloper/piege/releases/download/v1.1.0/IncrediboxPiege-Windows-v1.1.0.zip",
+        "mac": "https://github.com/sealldeveloper/piege/releases/download/v1.1.0/IncrediboxPiege-Mac-v1.1.0.zip",
+        "android": "https://github.com/sealldeveloper/piege/releases/download/v1.1.0/IncrediboxPiege-Android-v1.1.0.apk",
+        "webapp": "https://sealldeveloper.github.io/piege/",
+        "names": [
+            "piege"
+        ]
+    },
+    {
+        "name": "PixelTown (BitBox V1)",
+        "url": "https://www.youtube.com/watch?v=Z4EU07S8d_k",
+        "availability": "downloadable",
+        "android": "https://www.mediafire.com/file/by0an7xavax6myl/BitBox_-_PixelTown.apk/file",
+        "windows": "https://www.mediafire.com/file/gpx4z83zlipdh4e/PixelTown_PC.zip/file",
+        "creator": "KingKommrade & SlicedLimez",
+        "names": [
+            "pixeltown bitbox v1"
+        ]
+    },
+    {
+        "name": "Poplisbox",
+        "android": "https://www.mediafire.com/file/k0qlqtxdbn40it4/poplisbox_signed.apk/file",
+        "url": "https://www.youtube.com/watch?v=Fvj-LdLcR8k",
+        "creator": "Palpitoad",
+        "availability": "downloadable",
+        "original": "Evadare, Steel Factory (original and apk port) and Coldbox",
+        "names": [
+            "poplisbox"
+        ]
+    },
+    {
+        "name": "Pushing Life",
+        "url": "https://www.youtube.com/watch?v=7-Io79SBxIU",
+        "availability": "unfinished",
+        "creator": "Gumi",
+        "song": "Pushing Life by Incredible Polo",
+        "names": [
+            "pushing life"
+        ]
+    },
+    {
+        "name": "Real and True",
+        "availability": "unfinished",
+        "creator": "walmartworker76",
+        "url": "https://www.youtube.com/watch?v=NNI88xW2OvA",
+        "names": [
+            "real and true"
+        ]
+    },
+    {
+        "name": "Remixed",
+        "android": "https://www.mediafire.com/download/t5n4h1116ji0tk4",
+        "availability": "downloadable",
+        "creator": "Rem",
+        "names": [
+            "remixed"
+        ]
+    },
+    {
+        "name": "Reskincredibox",
+        "android": "https://drive.google.com/file/d/12-IdS359eF1IaCJyUIgUhi1rfS5x63so/view",
+        "availability": "downloadable",
+        "creator": "The Incredi Modmakers",
+        "names": [
+            "reskincredibox"
+        ]
+    },
+    {
+        "name": "Reunion",
+        "url": "https://youtu.be/GoMwCXYnaws?si=yCfXfT9G1m_gFfVS",
+        "availability": "unfinished",
+        "creator": "Apollo the polo",
+        "names": [
+            "reunion"
+        ]
+    },
+    {
+        "name": "Righteous",
+        "url": "https://www.youtube.com/shorts/B7k8djS_Wl0",
+        "creator": "Jado",
+        "availability": "unfinished",
+        "names": [
+            "righteous"
+        ]
+    },
+    {
+        "name": "Rockin' (Melodeal)",
+        "url": "https://www.youtube.com/watch?v=Hc12lwjWh5M",
+        "availability": "unfinished",
+        "creator": "LexLim",
+        "names": [
+            "rockin' melodeal (melodeal)"
+        ]
+    },
+    {
+        "name": "Save Your Tears (SYT)",
+        "url": "https://www.youtube.com/watch?v=mSxUjh7bZ6w",
+        "availability": "unfinished",
+        "creator": "VOID EYEWATCH",
+        "names": [
+            "save your tears",
+            "syt"
+        ]
+    },
+    {
+        "name": "Scary (T29BOX V1)",
+        "url": "https://www.youtube.com/watch?v=pSNp-ZMWXS8",
+        "availability": "downloadable",
+        "android": "https://www.mediafire.com/download/elv6nrzth7pnkjv",
+        "names": [
+            "scary t29box v1"
+        ]
+    },
+    {
+        "name": "Set Fire",
+        "android": "https://www.mediafire.com/file/9zt37rx9h0jbc8l/Incredimad.apk/file",
+        "availability": "demo",
+        "names": [
+            "set fire"
+        ]
+    },
+    {
+        "name": "Sewertown",
+        "android": "https://www.mediafire.com/file/aw7ax6ps96g7j5b/Incredibox_-_Sewertown_signed.apk/file",
+        "availability": "partially",
+        "creator": "Meddlebox Concepts",
+        "notes": "Missing animations.",
+        "names": [
+            "sewertown"
+        ]
+    },
+    {
+        "name": "Shinozaki (Remakedbox v6)",
+        "url": "https://www.youtube.com/watch?v=XteQW6uc42w",
+        "mac": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/Remakedbox/IncrediboxRemakedbox-Mac.zip",
+        "windows": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/Remakedbox/IncrediboxRemakedbox-Windows.zip",
+        "notes": "Asset folders were found, but some assets are missing aswell as potential pictos.",
+        "availability": "partially",
+        "creator": "LTFD",
+        "names": [
+            "shinozaki remakedbox v6"
+        ]
+    },
+    {
+        "name": "Soulgem",
+        "android": "https://www.mediafire.com/file/ts6siwsh3e96v8j/gen_signed.apk/file",
+        "availability": "downloadable",
+        "names": [
+            "soulgem"
+        ]
+    },
+    {
+        "name": "Space",
+        "url": "https://youtu.be/A_TSLZKN1oc",
+        "availability": "unfinished",
+        "creator": "hilarion100",
+        "song": "this is what space feels like by JVKE",
+        "names": [
+            "space"
+        ]
+    },
+    {
+        "name": "Splaatbox",
+        "android": "https://www.mediafire.com/file/rajxqynnnyzajlv/Splaatbox_V1.apk/file",
+        "availability": "downloadable",
+        "creator": "Object Show Animations",
+        "names": [
+            "splaatbox"
+        ]
+    },
+    {
+        "name": "Stardust (Unbelivabox V1)",
+        "url": "https://www.youtube.com/shorts/PG6FqZfdqDc",
+        "android": "https://www.mediafire.com/file/mvrhe8botynu6yc/Unbelivabox_V1.apk/file",
+        "windows": "https://www.mediafire.com/file/hlibi1stjtoxxgg/Stardust+PC.zip/file",
+        "availability": "demo",
+        "creator": "SlicedLimez",
+        "notes": "Unfinished animations.",
+        "names": [
+            "stardust unbelivabox v1"
+        ]
+    },
+        {
+        "name": "Stardust Remake",
+        "url": "https://www.youtube.com/watch?v=daa9vOOpBgM",
+        "creator": "A person from France",
+        "availability": "unfinished",
+        "names": [
+            "stardust remake"
+        ]
+    },
+    {
+        "name": "Stargold / Starbox",
+        "android": "https://www.mediafire.com/file/tna9kikmgg7we8k/StarBox.apk/file",
+        "availability": "demo",
+        "names": [
+            "stargold starbox"
+        ]
+    },
+    {
+        "name": "Steel Factory (Benvid)",
+        "availability": "downloadable",
+        "url": "https://www.youtube.com/watch?v=Cl1L80waY8E",
+        "android": "https://www.mediafire.com/file/zg9siql7pkg8noa/Sepbox_-_Steel_Factory_signed.apk/file",
+        "windows": "https://www.mediafire.com/file/itgq7tz87r3qyx6/Sepbox_-_V1_Steel_Factory.zip/file",
+        "webapp": "https://steelfactory.boogoxseal.xyz/",
+        "creator": "Benvid10",
+        "original": "Steel Factory by sepezz",
+        "original_url": "https://scratch.mit.edu/projects/836638363/",
+        "names": [
+            "steel factory benvid"
+        ]
+    },
+    {
+        "name": "Steel Factory (GREENORANGE)",
+        "creator": "GREENORANGE",
+        "url": "https://www.youtube.com/shorts/nJbFLDzbIZY",
+        "availability": "unfinished",
+        "original": "Steel Factory by sepezz",
+        "original_url": "https://scratch.mit.edu/projects/836638363/",
+        "names": [
+            "steel factory greenorange"
+        ]
+    },
+    {
+        "name": "Surprise",
+        "url": "https://youtu.be/7j5uHo8smhU",
+        "creator": "Lucasto",
+        "availability": "unfinished",
+        "names": [
+            "surprise"
+        ]
+    },
+    {
+        "name": "Thriller",
+        "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxIconSeries-Android-v2.0.apk",
+        "availability": "partially",
+        "creator": "RB - Series (pedo)",
+        "song": "Thriller by Michael Jackson",
+        "notes": "Highly unfinished, missing animations, sounds and whole polos.",
+        "names": [
+            "thriller"
+        ]
+    },
+    {
+        "name": "Time",
+        "url": "https://boogoxseal.xyz/mods/timebeta",
+        "availability": "partially",
+        "notes": "Still in beta.",
+        "windows": "https://github.com/sealldeveloper/time-beta/releases/download/v1.0.0/IncrediboxTimeBeta-Windows-v1.0.0.zip",
+        "android": "https://github.com/sealldeveloper/time-beta/releases/download/v1.0.0/IncrediboxTimeBeta-Android-v1.0.0.apk",
+        "mac": "https://github.com/sealldeveloper/time-beta/releases/download/v1.0.0/IncrediboxTimeBeta-Mac-v1.0.0.zip",
+        "webapp": "https://sealldeveloper.github.io/time-beta/",
+        "names": [
+            "time"
+        ]
+    },
+    {
+        "name": "The Tomfoolery",
+        "android": "https://www.mediafire.com/file/n1kpz0sb7lge7pk/Incredibox_-_The_Tomfoolery_v1.0.0_%2528Android%2529.apk/file",
+        "windows": "https://www.mediafire.com/file/e762wlmww3ncyxl/Incredibox_-_The_Tomfoolery_v1.0.1_%2528PC%2529.zip/file",
+        "availability": "downloadable",
+        "creator": "Artemiy Kopych and PersonFromBrazil",
+        "names": [
+            "the tomfoolery"
+        ]
+    },
+    {
+        "name": "Trap Grooves of Yesteryear (Voicebox V1)",
+        "url": "https://www.youtube.com/watch?v=pCqWiFF6c-k",
+        "availability": "unfinished",
+        "creator": "capyman",
+        "names": [
+            "trap grooves of yesteryear voicebox v1"
+        ]
+    },
+    {
+        "name": "Travis",
+        "android": "https://www.mediafire.com/file/y9hfwiemjslqz2x/Incredibox_-_Travis_v1.1.0_%2528Android%2529.apk/file",
+        "windows": "https://www.mediafire.com/file/oy9sdb08tto15re/Incredibox_-_Travis_v1.1.0_%2528PC%2529.zip/file",
+        "availability": "downloadable",
+        "creator": "Artemiy Kopych",
+        "song": "Travis by Incredible Polo",
+        "names": [
+            "travis"
+        ]
+    },
+    {
+        "name": "Tribal",
+        "url": "https://www.youtube.com/watch?v=qjjU6q1Yd6U",
+        "windows": "https://www.mediafire.com/file/pomfiaqe63o2f86/Tribal_PC.zip/file",
+        "android": "https://www.mediafire.com/file/hku7fzg7eukwa5p/Incredibox_-_Tribal_signed.apk/file",
+        "availability": "downloadable",
+        "creator": "The Jesterboxer",
+        "names": [
+            "tribal"
+        ]
+    },
+    {
+        "name": "Two Faces (Flow Studios)",
+        "url": "https://www.youtube.com/shorts/s6Ccs-froEA",
+        "availability": "unfinished",
+        "creator": "Flow Studios",
+        "song": "Two Faces by Incredible Polo",
+        "names": [
+            "two faces flow studios"
+        ]
+    },
+    {
+        "name": "Two Faces (RB)",
+        "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxTwoFaces-Android.apk",
+        "availability": "downloadable",
+        "creator": "RB - Series (pedo)",
+        "song": "Two Faces by Incredible Polo",
+        "names": [
+            "two faces rb"
+        ]
+    },
+    {
+        "name": "Unmasked",
+        "android": "https://www.mediafire.com/download/v62ye3yco2lim2m",
+        "availability": "downloadable",
+        "creator": "Rem",
+        "names": [
+            "unmasked"
+        ]
+    },
+    {
+        "name": "Veda",
+        "android": "https://mega.nz/file/yIszWRwK#mkLMAhxxUK4TaHgfu_XsmdVdqdOwby5dQVDSe9GiK-c",
+        "windows": "https://mega.nz/file/LQEmVTQD#BeFdti94fjAAZyEoaQQdLRicMLbUjZ2KFlEYxPnjg5U",
+        "creator": "LTFD",
+        "song": "Veda by Incredible Polo",
+        "availability": "partially",
+        "notes": "Still in beta.",
+        "names": [
+            "veda"
+        ]
+    },
+    {
+        "name": "Vehemence",
+        "url": "https://www.youtube.com/watch?v=fd1AuI49VZw",
+        "android": "https://drive.google.com/file/d/1FSJe0IVHeo4rm_SELaNKd-cR4AYWXLMM/view",
+        "creator": "TrollGame Sanctuary",
+        "song": "Vehemence by Hortasfnf",
+        "availability": "downloadable",
+        "names": [
+            "vehemence"
+        ]
+    },
+    {
+        "name": "Vibin (Dripbox V1)",
+        "creator": "Jado",
+        "url": "https://www.youtube.com/watch?v=HYMHYCzV54Y",
+        "windows": "https://www.mediafire.com/file/etfeeney49fe26y/Dripbox+-+Vibin.zip/file",
+        "android": "https://www.mediafire.com/file/e3tx0kjppu9owlz/Dripbox_signed.apk/file",
+        "availability": "downloadable",
+        "names": [
+            "vibin dripbox v1"
+        ]
+    },
+    {
+        "name": "Void (Evadre E3)",
+        "availability": "downloadable",
+        "windows": "https://www.mediafire.com/file/q2lwc7j6f004l79/Incredibox+-+Void+0.2.9+PC.zip/file",
+        "android": "https://www.mediafire.com/file/5aefysb2rxlphjy/Incredibox+-+Void+0.2.9+",
+        "webapp": "https://www.incredirem.com/mods/evadare",
+        "creator": "Rem",
+        "names": [
+            "void evadare e3"
+        ]
+    },
+    {
+        "name": "Voltage",
+        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=Lh_n3GLFeuQ",
+        "creator": "SlicedLimez",
+        "names": [
+            "voltage"
+        ]
+    },
+    {
+        "name": "Walrus",
+        "url": "https://youtube.com/shorts/dUcN-aFbSHQ",
+        "availability": "unfinished",
+        "creator": "TPFR",
+        "names": [
+            "walrus"
+        ]
+    },
+    {
+        "name": "The Wolf",
+        "url": "https://www.youtube.com/watch?v=RRaFyfHChKI",
+        "availability": "unfinished",
+        "creator": "Hadern Hadwads",
+        "names": [
+            "the wolf"
+        ]
+    },
+    {
+        "name": "Wonderland",
+        "url": "https://www.youtube.com/watch?v=KUPgE8inEyY",
+        "availability": "unfinished",
+        "creator": "Marchell",
+        "names": [
+            "wonderland"
+        ]
+    },
+    {
+        "name": "Xrun (Evadre E2)",
+        "webapp": "https://www.incredirem.com/mods/evadare",
+        "windows": "https://www.mediafire.com/file/jmjv60sfhysizdg/Xrun-PC.zip",
+        "android": "https://www.mediafire.com/file/tpvvxyv8dcvszum/Incredibox+-+Xrun+Update+%5BRem%5D.apk",
+        "availability": "downloadable",
+        "creator": "Rem",
+        "names": [
+            "xrun evadare e2"
+        ]
+    },
+    {
+        "name": "Yubin Niiku",
+        "availability": "downloadable",
+        "android": "https://www.mediafire.com/file/t6j9mfihx2a0yjt/Potatobox_-_Yubin_Niiku.apk/file",
+        "url": "https://www.youtube.com/watch?v=QI7jjPEPn5s",
+        "creator": "TISLUB",
+        "names": [
+            "yubin niiku"
+        ]
+    }
+]
