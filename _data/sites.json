@@ -9,7 +9,7 @@
   {
       "name": "Balls FV",
       "webapp": "https://incredimods.github.io/Balls-2024-Update",
-      "android": "https://github.com/Incredimods/Balls-2024-Update/releases/download/v2.0.0/Balls-android-2024-update.apk"
+      "android": "https://github.com/Incredimods/Balls-2024-Update/releases/download/v2.0.0/Balls-android-2024-update.apk",
       "availability": "downloadable",
       "creator": "Rem & PersonFromBrazil",
       "names": ["balls fv"]
