@@ -5,3 +5,11 @@
         "creator": "Rem & PersonFromBrazil",
         "notes": "Removed as per the request of Rem.",
         "names": ["balls"]
+  },
+  {
+      "name": "Balls FV",
+      "webapp" "https://incredimods.github.io/Balls-v2.0",
+      "availability": "available",
+      "creator": "Rem & PersonFromBrazil",
+      "names": ["balls fv"]
+  },
