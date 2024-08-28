@@ -35,8 +35,8 @@
                 </a>
 
                 <p class="site-availability">
-                    {% if entry.availability == 'downloadable' %}
-                        {{ site.data.trans[page.lang].availability_downloadable }}
+                    {% if entry.availability == 'playable' %}
+                        {{ site.data.trans[page.lang].availability_playable }}
                     {% elsif entry.availability == 'partially' %}
                         {{ site.data.trans[page.lang].availability_partially }}
                     {% elsif entry.availability == 'unfinished' %}
