@@ -341,7 +341,7 @@ main {
     color: #293840;
 }
 
-.site-block.downloadable .tooltip-toggle.contains-info:hover          { color: #7BAC7B; }
+.site-block.playable .tooltip-toggle.contains-info:hover          { color: #7BAC7B; }
 .site-block.partially .tooltip-toggle.contains-info:hover        { color: #E8C674; }
 .site-block.demo .tooltip-toggle.tooltip-toggle.contains-info:hover { color: rgb(232, 161, 116); }
 .site-block.unfinished .tooltip-toggle.contains-info:hover          { color: #D04343; }
