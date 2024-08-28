@@ -1,16 +1,15 @@
 [
   {
     "name": "Balls",
-        "availability": "unavailable",
+        "availability": "available",
         "creator": "Rem & PersonFromBrazil",
-        "notes": "Removed as per the request of Rem.",
         "names": ["balls"]
   },
   {
       "name": "Balls FV",
-      "webapp": "https://incredimods.github.io/Balls-2024-Update",
-      "android": "https://github.com/Incredimods/Balls-2024-Update/releases/download/Balls/Balls-android-2024-update.apk",
-      "windows": "https://github.com/Incredimods/Balls-2024-Update/releases/download/Balls/Balls-windows-2024-update.zip",
+      "webapp": "https://incredimods.github.io/Balls-2024-update",
+      "android": "https://github.com/Incredimods/Balls-2024-update/releases/download/Balls/Balls-android-2024-update.apk",
+      "windows": "https://github.com/Incredimods/Balls-2024-update/releases/download/Balls/Balls-windows-2024-update.zip",
       "availability": "downloadable",
       "creator": "Rem & PersonFromBrazil",
       "names": ["balls fv"]
