@@ -15,7 +15,7 @@
 
 <main>
     <section class="sites" id="sites">
-        <p class="no-results">{{ site.data.trans[page.lang].noresults }} <a href='https://github.com/sealldeveloper/incredibox-downloads-index'>{{ site.data.trans[page.lang].noresultshelp }}</a>.</p>
+        <p class="no-results">{{ site.data.trans[page.lang].noresults }} <a href='https://github.com/Incredimods'>{{ site.data.trans[page.lang].noresultshelp }}</a>.</p>
 
         {% for entry in site.data.sites %}
             <section class="site-block {{ entry.availability }}"{% if entry.meta == 'popular' %} data-popular{% endif %}>
@@ -112,7 +112,7 @@
             <h2>{{ site.data.trans[page.lang].guide }}</h2>
             <p>{{ site.data.trans[page.lang].guideexplanations }}</p>
             <ul>
-                <li class="downloadable"><span class="availability">{{ site.data.trans[page.lang].availability_downloadable|safe }}</span> - {{ site.data.trans[page.lang].guidedownloadable|safe }}</li>
+                <li class="playable"><span class="availability">{{ site.data.trans[page.lang].availability_downloadable|safe }}</span> - {{ site.data.trans[page.lang].guidedownloadable|safe }}</li>
                 <li class="partially"><span class="availability">{{ site.data.trans[page.lang].availability_partially|safe }}</span> - {{ site.data.trans[page.lang].guidepartially|safe }}</li>
                 <li class="demo"><span class="availability">{{ site.data.trans[page.lang].availability_demo|safe }}</span> - {{ site.data.trans[page.lang].guidedemo|safe }}</li>
                 <li class="unfinished"><span class="availability">{{ site.data.trans[page.lang].availability_unfinished|safe }}</span> - {{ site.data.trans[page.lang].guideunfinished|safe }}</li>
