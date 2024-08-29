@@ -144,6 +144,40 @@
         {% endfor %}
     </ul>
 </div>
+</section>
+
+<div class="banner-block">
+    <div class="banner-content">
+        <div class="banner-block-half" id="extension_browser">
+            <h2>{{ site.data.trans[page.lang].extension_browser|safe }}</h2>
+            <p>{{ site.data.trans[page.lang].extensionp1|safe }}</p>
+            <p>
+                {% assign post_extension_link_text = site.data.trans[page.lang].extensionp5 | safe %}
+                {% if post_extension_link_text == '' %}
+                    {% assign post_extension_link_text = '.' %}
+                {% endif %}
+                {{ site.data.trans[page.lang].extensionp2|safe }}
+                <a target='_blank' href='https://chrome.google.com/webstore/detail/just-delete-me/dlhckcablohllindinahbbpnfgblimoe'>{{ site.data.trans[page.lang].extensionp3|safe }}</a>
+                /
+                <a target='_blank' href='https://addons.mozilla.org/en-US/firefox/addon/justdeleteme/'>{{ site.data.trans[page.lang].extensionp4|safe }}</a>{{ post_extension_link_text }}
+            </p>
+        </div>
+        <div class="banner-block-half">
+            <h2>{{ site.data.trans[page.lang].extensionguide|safe }}</h2>
+            <ul>
+                <li><span class="dot-wrapper"><span class="dot playableplus"></span></span> - {{ site.data.trans[page.lang].guideplayableplus|safe }}</li>
+                <li><span class="dot-wrapper"><span class="dot playable"></span></span> - {{ site.data.trans[page.lang].guideplayable|safe }}</li>
+                <li><span class="dot-wrapper"><span class="dot playableminus"></span></span> - {{ site.data.trans[page.lang].guideplayableminus|safe }}</li>
+                <li><span class="dot-wrapper"><span class="dot partially"></span></span> - {{ site.data.trans[page.lang].guidepartially|safe }}</li>
+                <li><span class="dot-wrapper"><span class="dot demo"></span></span> -  {{ site.data.trans[page.lang].guidedemo|safe }}</li>
+                <li><span class="dot-wrapper"><span class="dot unfinished"></span></span> - {{ site.data.trans[page.lang].guideunfinished|safe }}</li>
+                <li><span class="dot-wrapper"><span class="dot lost"></span></span> - {{ site.data.trans[page.lang].guidelost|safe }}</li>
+                <li><span class="dot-wrapper"><span class="dot unavailable"></span></span> - {{ site.data.trans[page.lang].guideunavailable|safe }}</li>
+            </ul>
+        </div>
+    </div>
+    <div class="banner-block-extension_browser"></div>
+</div>
 
 <!-- Alphabetical sorting -->
 <div id="alphabetical-dropdown" class="dropdown dropdown-tip">
