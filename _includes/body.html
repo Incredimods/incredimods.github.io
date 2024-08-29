@@ -101,9 +101,8 @@
                     <p class="tooltip-toggle">{{ site.data.trans[page.lang].noinfo }}</p>
                 {% endif %}
             </section>
-        {% endif %}
+        {% endfor %}
     </section>
-  {% endfor %}
 </main>
 
 <section id="about" class="info-block about">
@@ -117,7 +116,9 @@
             <h2>{{ site.data.trans[page.lang].guide }}</h2>
             <p>{{ site.data.trans[page.lang].guideexplanations }}</p>
             <ul>
+                <li class="playableplus"><span class="availability">{{ site.data.trans[page.lang].availability_playableplus|safe }}</span> - {{ site.data.trans[page.lang].guideplayableplus|safe }}</li>
                 <li class="playable"><span class="availability">{{ site.data.trans[page.lang].availability_playable|safe }}</span> - {{ site.data.trans[page.lang].guideplayable|safe }}</li>
+                <li class="playableminus"><span class="availability">{{ site.data.trans[page.lang].availability_playableminus|safe }}</span> - {{ site.data.trans[page.lang].guideplayableminus|safe }}</li>
                 <li class="partially"><span class="availability">{{ site.data.trans[page.lang].availability_partially|safe }}</span> - {{ site.data.trans[page.lang].guidepartially|safe }}</li>
                 <li class="demo"><span class="availability">{{ site.data.trans[page.lang].availability_demo|safe }}</span> - {{ site.data.trans[page.lang].guidedemo|safe }}</li>
                 <li class="unfinished"><span class="availability">{{ site.data.trans[page.lang].availability_unfinished|safe }}</span> - {{ site.data.trans[page.lang].guideunfinished|safe }}</li>
