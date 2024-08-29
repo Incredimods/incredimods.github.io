@@ -251,12 +251,26 @@ main {
     color: white;
     text-decoration: none;
 }
+.site-block.playableplus .site-header {
+    background-color: #7BAC7B;
+    border: 1px solid #5D895D;
+}
+.site-block.playableplus .site-header:hover {
+    background-color: #5D895D;
+}
 
 .site-block.playable .site-header {
     background-color: #7BAC7B;
     border: 1px solid #5D895D;
 }
 .site-block.playable .site-header:hover {
+    background-color: #5D895D;
+}
+.site-block.playableminus .site-header {
+    background-color: #7BAC7B;
+    border: 1px solid #5D895D;
+}
+.site-block.playableminus .site-header:hover {
     background-color: #5D895D;
 }
 
@@ -341,7 +355,9 @@ main {
     color: #293840;
 }
 
+.site-block.playableplus .tooltip-toggle.contains-info:hover          { color: #7BAC7B; }
 .site-block.playable .tooltip-toggle.contains-info:hover          { color: #7BAC7B; }
+.site-block.playableminus .tooltip-toggle.contains-info:hover          { color: #7BAC7B; }
 .site-block.partially .tooltip-toggle.contains-info:hover        { color: #E8C674; }
 .site-block.demo .tooltip-toggle.tooltip-toggle.contains-info:hover { color: rgb(232, 161, 116); }
 .site-block.unfinished .tooltip-toggle.contains-info:hover          { color: #D04343; }
@@ -432,7 +448,15 @@ main {
     padding: 6px 12px;
 }
 
+.info-container .playableplus .availability {
+    background-color: #7BAC7B;
+    border: 1px solid #5D895D;
+}
 .info-container .playable .availability {
+    background-color: #7BAC7B;
+    border: 1px solid #5D895D;
+}
+.info-container .playableminus .availability {
     background-color: #7BAC7B;
     border: 1px solid #5D895D;
 }
@@ -509,7 +533,15 @@ main {
     height: 10px;
     width: 10px;
 }
+.banner-block li .dot.playableplus {
+    background-color: #7BAC7B;
+    border: 1px solid #5D895D;
+}
 .banner-block li .dot.playable {
+    background-color: #7BAC7B;
+    border: 1px solid #5D895D;
+}
+.banner-block li .dot.playableminus {
     background-color: #7BAC7B;
     border: 1px solid #5D895D;
 }
