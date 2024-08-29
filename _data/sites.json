@@ -1,27 +1,36 @@
 [
-   {
-       "name": "Balls",
-       "webapp": "https://incredimods.github.io/Balls",
-       "availability": "playable",
-       "creator": "Rem & PersonFromBrazil",
-       "names": ["balls"]
-   },
-   {
-       "name": "Balls FV",
-       "webapp": "https://incredimods.github.io/Balls-2024-update",
-       "android": "https://github.com/Incredimods/Balls-2024-update/releases/download/Balls/Balls-android-2024-update.apk",
-       "windows": "https://github.com/Incredimods/Balls-2024-update/releases/download/Balls/Balls-windows-2024-update.zip",
-       "availability": "playable",
-       "creator": "Rem & PersonFromBrazil",
-       "names": ["balls fv"]
-   },
-   {
-       "name": "Vehemance",
-       "url": "https://youtu.be/fd1AuI49VZw?si=QyHP3wX-uRe4Dx_i",
-       "webapp": "https://incredimods.github.io/Vehemence",
-       "android": "https://github.com/Incredimods/Vehemence/releases/download/Vehemence/Hortasbox_Vehemence_signed.apk",
-       "availability": "playable",
-       "creator": "T.G.S_dev",
-       "names": ["vehemence"]
-   }
+    {
+        "name": "Balls",
+        "webapp": "https://incredimods.github.io/Balls",
+        "availability": "playable",
+        "creator": "Rem & PersonFromBrazil",
+        "names": ["balls"]
+    },
+    {
+        "name": "Balls FV",
+        "webapp": "https://incredimods.github.io/Balls-2024-update",
+        "android": "https://github.com/Incredimods/Balls-2024-update/releases/download/Balls/Balls-android-2024-update.apk",
+        "windows": "https://github.com/Incredimods/Balls-2024-update/releases/download/Balls/Balls-windows-2024-update.zip",
+        "availability": "playable",
+        "creator": "Rem & PersonFromBrazil",
+        "names": ["balls fv"]
+    },
+    {
+        "name": "The Crime",
+        "url": "https://youtu.be/7x2dxJRmgec?si=ejKNjL3leM4ZW5kh",
+        "webapp": "https://Incredimods.github.io/The-Crime",
+        "android": "https://github.com/Incredimods/The-Crime/releases/download/the-crime/Incredibox_The-Crime_signed.apk",
+        "windows": "https://github.com/Incredimods/The-Crime/releases/download/the-crime/Incredibox_The-Crime_v1.0.1.PC.zip",
+        "availability": "playable",
+        "creator": "R.K.",
+        "names":["the crime"]
+    {
+        "name": "Vehemance",
+        "url": "https://youtu.be/fd1AuI49VZw?si=QyHP3wX-uRe4Dx_i",
+        "webapp": "https://incredimods.github.io/Vehemence",
+        "android": "https://github.com/Incredimods/Vehemence/releases/download/Vehemence/Hortasbox_Vehemence_signed.apk",
+        "availability": "playable",
+        "creator": "T.G.S_dev",
+        "names": ["vehemence"]
+    }
 ]
