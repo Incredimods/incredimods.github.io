@@ -458,7 +458,7 @@ main {
 }
 .info-container .playableminus .availability {
     background-color: #3a26d4;
-    border: 1px solid #5D895D;
+    border: 1px solid #1d1559;
 }
 .info-container .partially .availability {
     background-color: #E8C674;
@@ -543,7 +543,7 @@ main {
 }
 .banner-block li .dot.playableminus {
     background-color: #3a26d4;
-    border: 1px solid #5D895D;
+    border: 1px solid #1d1559;
 }
 .banner-block li .dot.partially {
     background-color: #E8C674;
