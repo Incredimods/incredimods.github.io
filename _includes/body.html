@@ -171,7 +171,7 @@
 <div id="availability-dropdown" class="dropdown dropdown-tip">
     <ul class="dropdown-menu">
         <span class="diff-sort">
-            {% assign difficulties = 'playable,partially,unfinished,lost,unavailable,demo' | split:',' %}
+            {% assign difficulties = 'playableplus,playable,playableminus,partially,unfinished,lost,unavailable,demo' | split:',' %}
             {% for availability in difficulties %}
                 {% capture availability_value %}availability_{{ availability }}{% endcapture %}
                 <li><a href="#">{{ site.data.trans[page.lang][availability_value] }}</a></li>
