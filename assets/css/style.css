@@ -252,11 +252,11 @@ main {
     text-decoration: none;
 }
 .site-block.playableplus .site-header {
-    background-color: #7BAC7B;
-    border: 1px solid #5D895D;
+    background-color: #03f2ff;
+    border: 1px solid #0b868c;
 }
 .site-block.playableplus .site-header:hover {
-    background-color: #5D895D;
+    background-color: #0b868c;
 }
 
 .site-block.playable .site-header {
@@ -267,11 +267,11 @@ main {
     background-color: #5D895D;
 }
 .site-block.playableminus .site-header {
-    background-color: #7BAC7B;
-    border: 1px solid #5D895D;
+    background-color: #3a26d4;
+    border: 1px solid #1d1559;
 }
 .site-block.playableminus .site-header:hover {
-    background-color: #5D895D;
+    background-color: #1d1559;
 }
 
 .site-block.partially .site-header {
@@ -355,9 +355,9 @@ main {
     color: #293840;
 }
 
-.site-block.playableplus .tooltip-toggle.contains-info:hover          { color: #7BAC7B; }
+.site-block.playableplus .tooltip-toggle.contains-info:hover          { color: #03f2ff; }
 .site-block.playable .tooltip-toggle.contains-info:hover          { color: #7BAC7B; }
-.site-block.playableminus .tooltip-toggle.contains-info:hover          { color: #7BAC7B; }
+.site-block.playableminus .tooltip-toggle.contains-info:hover          { color: #3a26d4; }
 .site-block.partially .tooltip-toggle.contains-info:hover        { color: #E8C674; }
 .site-block.demo .tooltip-toggle.tooltip-toggle.contains-info:hover { color: rgb(232, 161, 116); }
 .site-block.unfinished .tooltip-toggle.contains-info:hover          { color: #D04343; }
@@ -449,15 +449,15 @@ main {
 }
 
 .info-container .playableplus .availability {
-    background-color: #7BAC7B;
-    border: 1px solid #5D895D;
+    background-color: #03f2ff;
+    border: 1px solid #0b868c;
 }
 .info-container .playable .availability {
     background-color: #7BAC7B;
     border: 1px solid #5D895D;
 }
 .info-container .playableminus .availability {
-    background-color: #7BAC7B;
+    background-color: #3a26d4;
     border: 1px solid #5D895D;
 }
 .info-container .partially .availability {
@@ -534,15 +534,15 @@ main {
     width: 10px;
 }
 .banner-block li .dot.playableplus {
-    background-color: #7BAC7B;
-    border: 1px solid #5D895D;
+    background-color: #03f2ff;
+    border: 1px solid #0b868c;
 }
 .banner-block li .dot.playable {
     background-color: #7BAC7B;
     border: 1px solid #5D895D;
 }
 .banner-block li .dot.playableminus {
-    background-color: #7BAC7B;
+    background-color: #3a26d4;
     border: 1px solid #5D895D;
 }
 .banner-block li .dot.partially {
