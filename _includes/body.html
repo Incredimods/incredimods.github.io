@@ -91,7 +91,6 @@
                             <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.webapp }}"><img class="icon" src="{{ site.url }}/assets/icons/webapp.svg" alt="Webapp" /></a>
                             {% endif %}
                         {% endif %}
-                    {% endif %}
 
                     </div>
                     <a href="#" class="tooltip-toggle contains-info">
@@ -102,7 +101,7 @@
                     <p class="tooltip-toggle">{{ site.data.trans[page.lang].noinfo }}</p>
                 {% endif %}
             </section>
-        {% endfor %}
+        {% endif %}
     </section>
 </main>
 
