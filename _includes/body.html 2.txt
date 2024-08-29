@@ -1,0 +1,181 @@
+    <div class="search">
+    <div class="search-container">
+        <input type="text" id="search" placeholder="{{ site.data.trans[page.lang].search }}">
+        <label for="search">search</a>
+    </div>
+
+    <div class="sort-container">
+        <button class="popular">{{ site.data.trans[page.lang].popular }}</button>
+        <button data-dropdown="#alphabetical-dropdown" class="az-sort">A - Z</button>
+        <button data-dropdown="#number-dropdown" class="09-sort">0 - 9</button>
+        <button data-dropdown="#availability-dropdown" class="diff-sort">{{ site.data.trans[page.lang].availability }}</button>
+        <button class="reset">{{ site.data.trans[page.lang].reset }}</button>
+    </div>
+</div>
+
+<main>
+    <section class="sites" id="sites">
+        <p class="no-results">{{ site.data.trans[page.lang].noresults }} <a href='https://github.com/Incredimods/incredimods.github.io'>{{ site.data.trans[page.lang].noresultshelp }}</a>.</p>
+
+        {% for entry in site.data.sites %}
+            <section class="site-block {{ entry.availability }}"{% if entry.meta == 'popular' %} data-popular{% endif %}>
+                {% capture lang_url %}url_{{ page.lang }}{% endcapture %}
+                <a 
+                    class="site-header" 
+                    {% if entry[lang_url] %}
+                        href="{{ entry[lang_url] }}"
+                    {% elsif entry.url %}
+                        href="{{ entry.url }}"
+                    {% endif %}
+                    >
+                    <span class="name">{{ entry.name }}</span>
+                    {% if entry[lang_url] or entry.url %}
+                        <img class="icon" src="{{ site.url }}/assets/icons/link.svg" alt="URL" />
+                    {% endif %}
+                </a>
+
+                <p class="site-availability">
+                    {% if entry.availability == 'playableplus' %}
+                        {{ site.data.trans[page.lang].availability_playableplus }}
+                    {% if entry.availability == 'playable' %}
+                        {{ site.data.trans[page.lang].availability_playable }}
+                    {% if entry.availability == 'playableminus' %}
+                        {{ site.data.trans[page.lang].availability_playableminus }}
+                    {% elsif entry.availability == 'partially' %}
+                        {{ site.data.trans[page.lang].availability_partially }}
+                    {% elsif entry.availability == 'unfinished' %}
+                        {{ site.data.trans[page.lang].availability_unfinished }}
+                    {% elsif entry.availability == 'lost' %}
+                        {{ site.data.trans[page.lang].availability_lost }}
+                    {% elsif entry.availability == 'unavailable' %}
+                        {{ site.data.trans[page.lang].availability_unavailable }}
+                    {% elsif entry.availability == 'demo' %}
+                        {{ site.data.trans[page.lang].availability_demo }}
+                    {% endif %}
+                </p>
+
+                {% capture lang_notes %}notes_{{ page.lang }}{% endcapture %}
+                {% if entry.notes or entry[lang_notes] or entry.email or entry.song or entry.creator or entry.song or entry.windows or entry.mac or entry.android or entry.webapp or entry.original %}
+                    <div class="tooltip-content">
+                        {% if entry.creator %}
+                            <b>Made By: </b>{{entry.creator}}<br>
+                        {% endif %}
+                        {% if entry.song %}
+                            <b>Sounds based off of: </b>{{entry.song}}<br>
+                        {% endif %}
+                        {% if entry.original and entry.original_url %}
+                            <b>Original Mod: </b><a target="_blank" rel="noopener noreferrer" href="{{entry.original_url}}"><u>{{entry.original}}</u></a><br>
+                        {% elsif entry.original%}
+                            <b>Original Mod: </b>{{entry.original}}<br>
+                        {% endif %}
+                        {% if entry[lang_notes] %}
+                            {{ entry[lang_notes] }}<br>
+                        {% elsif entry.notes %}
+                            {{ entry.notes }}<br>
+                        {% endif %}
+                        {% if entry.windows or entry.mac or entry.android or entry.mac or entry.webapp %}
+                            {% if entry.creator or entry.song or entry.notes or entry[lang_notes] or entry.original %}
+                                <br>
+                            {% endif %}
+                            <b>Downloads</b><br>
+                            {% if entry.mac %}
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.mac }}"><img class="icon" src="{{ site.url }}/assets/icons/mac.svg" alt="Mac Download" /></a>
+                            {% endif %}
+                            {% if entry.windows %}
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.windows }}"><img class="icon" src="{{ site.url }}/assets/icons/windows.svg" alt="Windows Download" /></a>
+                            {% endif %}
+                            {% if entry.android %}
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.android }}"><img class="icon" src="{{ site.url }}/assets/icons/android.svg" alt="Android Download" /></a>
+                            {% endif %}
+                            {% if entry.webapp %}
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.webapp }}"><img class="icon" src="{{ site.url }}/assets/icons/webapp.svg" alt="Webapp" /></a>
+                            {% endif %}
+                        {% endif %}
+
+                    </div>
+                    <a href="#" class="tooltip-toggle contains-info">
+                        <span class="show-info">{{ site.data.trans[page.lang].showinfo }}</span>
+                        <span class="hide-info">{{ site.data.trans[page.lang].hideinfo }}</span>
+                    </a>
+                {% else %}
+                    <p class="tooltip-toggle">{{ site.data.trans[page.lang].noinfo }}</p>
+                {% endif %}
+            </section>
+        {% endfor %}
+    </section>
+</main>
+
+<section id="about" class="info-block about">
+    <div class="info-container">
+        <div class="info-block-half">
+            <h2>{{ site.data.trans[page.lang].whatisthis }}</h2>
+            <p>{{ site.data.trans[page.lang].whatisthis1|safe }}</p>
+            <p>{{ site.data.trans[page.lang].whatisthis4|safe }} <a href='https://github.com/Incredimods/incredimods.github.io'>{{ site.data.trans[page.lang].pullrequest|safe }}</a>.</p>
+        </div>
+        <div class="info-block-half">
+            <h2>{{ site.data.trans[page.lang].guide }}</h2>
+            <p>{{ site.data.trans[page.lang].guideexplanations }}</p>
+            <ul>
+                <li class="playableplus"><span class="availability">{{ site.data.trans[page.lang].availability_playableplus|safe }}</span> - {{ site.data.trans[page.lang].guideplayableplus|safe }}</li>
+                <li class="playable"><span class="availability">{{ site.data.trans[page.lang].availability_playable|safe }}</span> - {{ site.data.trans[page.lang].guideplayable|safe }}</li>
+                <li class="playableminus"><span class="availability">{{ site.data.trans[page.lang].availability_playableminus|safe }}</span> - {{ site.data.trans[page.lang].guideplayableminus|safe }}</li>
+                <li class="partially"><span class="availability">{{ site.data.trans[page.lang].availability_partially|safe }}</span> - {{ site.data.trans[page.lang].guidepartially|safe }}</li>
+                <li class="demo"><span class="availability">{{ site.data.trans[page.lang].availability_demo|safe }}</span> - {{ site.data.trans[page.lang].guidedemo|safe }}</li>
+                <li class="unfinished"><span class="availability">{{ site.data.trans[page.lang].availability_unfinished|safe }}</span> - {{ site.data.trans[page.lang].guideunfinished|safe }}</li>
+                <li class="lost"><span class="availability">{{ site.data.trans[page.lang].availability_lost|safe }}</span> - {{ site.data.trans[page.lang].guidelost|safe }}</li>
+                <li class="unavailable"><span class="availability">{{ site.data.trans[page.lang].availability_unavailable|safe }}</span> - {{ site.data.trans[page.lang].guideunavailable|safe }}</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<!-- Language dropdown -->
+<div id="language-dropdown" class="language-dropdown dropdown dropdown-tip dropdown-relative">
+    <ul class="dropdown-menu">
+        {% assign sorted_files = (site.data.trans | sort:0) %}
+        {% for lang in sorted_files %}
+            {% assign lang_code = lang[0] %}
+            {% if lang_code == 'en' %}
+                {% assign url = './' %}
+            {% else %}
+                {% assign url = lang_code %}
+            {% endif %}
+            <li class="{{ lang_code }}"><a href="{{ url }}">{{ site.data.trans[lang_code].name }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+
+<!-- Alphabetical sorting -->
+<div id="alphabetical-dropdown" class="dropdown dropdown-tip">
+    <ul class="dropdown-menu ltr">
+        <span class="alpha-sort">
+            {% assign letters = 'a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z' | split:',' %}
+            {% for letter in letters %}
+            <li><a href="">{{ letter }}</a></li>
+            {% endfor %}
+        </span>
+    </ul>
+</div>
+
+<div id="number-dropdown" class="dropdown dropdown-tip">
+    <ul class="dropdown-menu ltr">
+        <span class="alpha-sort">
+            {% assign numbers = '0,1,2,3,4,5,6,7,8,9' | split:',' %}
+            {% for number in numbers %}
+            <li><a href="">{{ number }}</a></li>
+            {% endfor %}
+        </span>
+    </ul>
+</div>
+
+<div id="availability-dropdown" class="dropdown dropdown-tip">
+    <ul class="dropdown-menu">
+        <span class="diff-sort">
+            {% assign difficulties = 'playable,partially,unfinished,lost,unavailable,demo' | split:',' %}
+            {% for availability in difficulties %}
+                {% capture availability_value %}availability_{{ availability }}{% endcapture %}
+                <li><a href="#">{{ site.data.trans[page.lang][availability_value] }}</a></li>
+            {% endfor %}
+        </span>
+    </ul>
+</div>
