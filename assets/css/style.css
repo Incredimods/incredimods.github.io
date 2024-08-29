@@ -451,9 +451,17 @@ main {
     padding: 6px 12px;
 }
 
+.info-container .playableplus .availability {
+    background-color: #2ee2e6;
+    border: 1px solid #0d4e4f;
+}
 .info-container .playable .availability {
     background-color: #7BAC7B;
     border: 1px solid #5D895D;
+}
+.info-container .playableminus .availability {
+    background-color: #2e31e6;
+    border: 1px solid #131452;
 }
 .info-container .partially .availability {
     background-color: #E8C674;
@@ -529,7 +537,7 @@ main {
     width: 10px;
 }
 .banner-block li .dot.playableplus {
-    background-color: #2ee2e6
+    background-color: #2ee2e6;
     border: 1px solid #0d4e4f;
 }
 .banner-block li .dot.playable {
@@ -538,7 +546,7 @@ main {
 }
 .banner-block li .dot.playableminus {
     background-color: #2e31e6;
-    border: 1px solid #131452
+    border: 1px solid #131452;
 }
 .banner-block li .dot.partially {
     background-color: #E8C674;
