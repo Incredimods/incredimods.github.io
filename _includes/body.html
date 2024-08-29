@@ -52,7 +52,6 @@
                     {% elsif entry.availability == 'demo' %}
                         {{ site.data.trans[page.lang].availability_demo }}
                     {% endif %}
-                    {% endid %}
                 </p>
 
                 {% capture lang_notes %}notes_{{ page.lang }}{% endcapture %}
@@ -92,6 +91,7 @@
                             <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.webapp }}"><img class="icon" src="{{ site.url }}/assets/icons/webapp.svg" alt="Webapp" /></a>
                             {% endif %}
                         {% endif %}
+                    {% endif %}
 
                     </div>
                     <a href="#" class="tooltip-toggle contains-info">
