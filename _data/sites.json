@@ -31,17 +31,23 @@
         "webapp": "https://incredimods.github.io/Vehemence",
         "android": "https://github.com/Incredimods/Vehemence/releases/download/Vehemence/Hortasbox_Vehemence_signed.apk",
         "availability": "playableplus",
-        "creator": "T.G.S_dev",
+        "creator": "Trollgame Sanctuary @T.G.S_dev",
         "names": ["vehemence"]
     },
     {
         "name": "vibin",
         "webapp": "https://incredimods.github.io/Vibin",
+        "android": "https://github.com/Incredimods/Vibin/releases/download/Vibin/Dripbox_Vibin_signed.apk",
+        "windows": "https://github.com/Incredimods/Vibin/releases/download/Vibin/Dripbox_Vibin.zip",
+        "availability": "playableplus",
+        "creator": "Jado @diamondreaching"
         "names": ["vibin"]
     },
     {
         "name": "Otherside",
         "webapp": "https://incredimods.github.io/Otherside",
+        "availability": "playable",
+        "creator": "Siren Bread",
         "names": ["otherside"]
     }
     
