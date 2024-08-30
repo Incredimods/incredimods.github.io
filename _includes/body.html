@@ -60,6 +60,8 @@
                         {% if entry.creator %}
                             <b>Made By: </b>{{entry.creator}}<br>
                         {% endif %}
+                            <b>And: </b>{{entry.and}}<br>
+                        {% endif %}
                         {% if entry.song %}
                             <b>Sounds based off of: </b>{{entry.song}}<br>
                         {% endif %}
@@ -74,7 +76,7 @@
                             {{ entry.notes }}<br>
                         {% endif %}
                         {% if entry.windows or entry.mac or entry.android or entry.mac or entry.webapp %}
-                            {% if entry.creator or entry.song or entry.notes or entry[lang_notes] or entry.original %}
+                            {% if entry.creator or entry.and or entry.song or entry.notes or entry[lang_notes] or entry.original %}
                                 <br>
                             {% endif %}
                             <b>Downloads</b><br>
