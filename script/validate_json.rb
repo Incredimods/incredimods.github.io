@@ -21,15 +21,17 @@ module ExitCodes
     UNEXPECTED_NOTES = 12          # Unexpected notes key for translation
 end
 
-SupportedDifficulties = ["downloadable", "partially", "unfinished", "lost", "unavailable", "demo"]
+SupportedDifficulties = ["playableplus", "playable", "playableminus", "demoplus", "unfinished", "lost", "unavailable", "demo"]
 SupportedEntryKeys = ["availability", "names", "email", "email_body", "email_subject", "meta", "name", "notes", "url", "windows", "mac", "android", "webapp", "song", "creator", "original", "original_url"]
 SupportedLanguageKeys = [
     "about",
     "availability",
     "availability_demo",
-    "availability_downloadable",
+    "availability_playableplus",
+    "availability_playable",
+    "availability_playableminus",
     "availability_lost",
-    "availability_partially",
+    "availability_demoplus",
     "availability_unavailable",
     "availability_unfinished",
     "contribute",
@@ -38,10 +40,12 @@ SupportedLanguageKeys = [
     "footercredits",
     "guide",
     "guidedemo",
-    "guidedownloadable",
+    "guideplayableplus",
+    "guideplayable",
+    "guideplayableminus",
     "guideexplanations",
     "guidelost",
-    "guidepartially",
+    "guidedemoplus",
     "guideunavailable",
     "guideunfinished",
     "hideinfo",
