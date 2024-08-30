@@ -33,5 +33,16 @@
         "availability": "playableplus",
         "creator": "T.G.S_dev",
         "names": ["vehemence"]
+    },
+    {
+        "name": "vibin",
+        "webapp": "https://incredimods.github.io/Vibin",
+        "names": ["vibin"]
+    },
+    {
+        "name": "Otherside",
+        "webapp": "https://incredimods.github.io/Otherside",
+        "names": ["otherside"]
     }
+    
 ]
