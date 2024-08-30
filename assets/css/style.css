@@ -274,11 +274,11 @@ main {
     background-color: #1d1559;
 }
 
-.site-block.partially .site-header {
+.site-block.demoplus .site-header {
     background-color: #E8C674;
     border: 1px solid #C5A65C;
 }
-.site-block.partially .site-header:hover {
+.site-block.demoplus .site-header:hover {
     background-color: #C5A65C;
 }
 
@@ -358,7 +358,7 @@ main {
 .site-block.playableplus .tooltip-toggle.contains-info:hover          { color: #03f2ff; }
 .site-block.playable .tooltip-toggle.contains-info:hover          { color: #7BAC7B; }
 .site-block.playableminus .tooltip-toggle.contains-info:hover          { color: #3a26d4; }
-.site-block.partially .tooltip-toggle.contains-info:hover        { color: #E8C674; }
+.site-block.demoplus .tooltip-toggle.contains-info:hover        { color: #E8C674; }
 .site-block.demo .tooltip-toggle.tooltip-toggle.contains-info:hover { color: rgb(232, 161, 116); }
 .site-block.unfinished .tooltip-toggle.contains-info:hover          { color: #D04343; }
 .site-block.lost .tooltip-toggle.contains-info:hover       { color: #B521CC; }
@@ -460,7 +460,7 @@ main {
     background-color: #3a26d4;
     border: 1px solid #1d1559;
 }
-.info-container .partially .availability {
+.info-container .demoplus .availability {
     background-color: #E8C674;
     border: 1px solid #C5A65C;
 }
@@ -545,7 +545,7 @@ main {
     background-color: #3a26d4;
     border: 1px solid #1d1559;
 }
-.banner-block li .dot.partially {
+.banner-block li .dot.demoplus {
     background-color: #E8C674;
     border: 1px solid #C5A65C;
 }
