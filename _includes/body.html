@@ -41,8 +41,8 @@
                         {{ site.data.trans[page.lang].availability_playable }}
                     {% elsif entry.availability == 'playableminus' %}
                         {{ site.data.trans[page.lang].availability_playableminus }}
-                    {% elsif entry.availability == 'partially' %}
-                        {{ site.data.trans[page.lang].availability_partially }}
+                    {% elsif entry.availability == 'demoplus' %}
+                        {{ site.data.trans[page.lang].availability_demoplus }}
                     {% elsif entry.availability == 'unfinished' %}
                         {{ site.data.trans[page.lang].availability_unfinished }}
                     {% elsif entry.availability == 'lost' %}
@@ -119,7 +119,7 @@
                 <li class="playableplus"><span class="availability">{{ site.data.trans[page.lang].availability_playableplus|safe }}</span> - {{ site.data.trans[page.lang].guideplayableplus|safe }}</li>
                 <li class="playable"><span class="availability">{{ site.data.trans[page.lang].availability_playable|safe }}</span> - {{ site.data.trans[page.lang].guideplayable|safe }}</li>
                 <li class="playableminus"><span class="availability">{{ site.data.trans[page.lang].availability_playableminus|safe }}</span> - {{ site.data.trans[page.lang].guideplayableminus|safe }}</li>
-                <li class="partially"><span class="availability">{{ site.data.trans[page.lang].availability_partially|safe }}</span> - {{ site.data.trans[page.lang].guidepartially|safe }}</li>
+                <li class="demoplus"><span class="availability">{{ site.data.trans[page.lang].availability_demoplus|safe }}</span> - {{ site.data.trans[page.lang].guidedemoplus|safe }}</li>
                 <li class="demo"><span class="availability">{{ site.data.trans[page.lang].availability_demo|safe }}</span> - {{ site.data.trans[page.lang].guidedemo|safe }}</li>
                 <li class="unfinished"><span class="availability">{{ site.data.trans[page.lang].availability_unfinished|safe }}</span> - {{ site.data.trans[page.lang].guideunfinished|safe }}</li>
                 <li class="lost"><span class="availability">{{ site.data.trans[page.lang].availability_lost|safe }}</span> - {{ site.data.trans[page.lang].guidelost|safe }}</li>
