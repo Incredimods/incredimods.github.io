@@ -60,11 +60,12 @@
                         {% if entry.creator %}
                             <b>Made By: </b>{{entry.creator}}<br>
                         {% endif %}
+                        {% if entry.and%}
                             <b>And: </b>{{entry.and}}<br>
                         {% endif %}
                         {% if entry.song %}
                             <b>Sounds based off of: </b>{{entry.song}}<br>
-                        {% endif %}
+                        {% elsif %}
                         {% if entry.original and entry.original_url %}
                             <b>Original Mod: </b><a target="_blank" rel="noopener noreferrer" href="{{entry.original_url}}"><u>{{entry.original}}</u></a><br>
                         {% elsif entry.original%}
