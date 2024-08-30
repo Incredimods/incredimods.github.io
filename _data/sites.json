@@ -3,7 +3,7 @@
         "name": "Balls",
         "webapp": "https://incredimods.github.io/Balls",
         "availability": "playable",
-        "creator": "Rem & PersonFromBrazil",
+        "creator": "Rem @rin.Incredibox & PFB @PersonFromBrazil",
         "names": ["balls"]
     },
     {
@@ -12,7 +12,7 @@
         "android": "https://github.com/Incredimods/Balls-2024-update/releases/download/Balls/Balls-android-2024-update.apk",
         "windows": "https://github.com/Incredimods/Balls-2024-update/releases/download/Balls/Balls-windows-2024-update.zip",
         "availability": "playableplus",
-        "creator": "Rem & PersonFromBrazil",
+        "creator": "Rem @rin.Incredibox & PFB @PersonFromBrazil",
         "names": ["balls fv"]
     },
     {
@@ -46,7 +46,9 @@
     {
         "name": "Otherside",
         "webapp": "https://incredimods.github.io/Otherside",
-        "availability": "playable",
+        "android": "https://github.com/Incredimods/Otherside/releases/download/Otherside/Incrediblock_Otherside_signed.apk",
+        "windows": "https://github.com/Incredimods/Otherside/releases/download/Otherside/Incrediblocks_Otherside.zip",
+        "availability": "playableplus",
         "creator": "Siren Bread",
         "names": ["otherside"]
     }
