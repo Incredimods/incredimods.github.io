@@ -4,7 +4,7 @@
         "webapp": "https://incredimods.github.io/Balls",
         "availability": "playable",
         "creator": "Rem @rin.Incredibox & PFB @PersonFromBrazil",
-        "and" "personFromBrazil",
+        "and": "personFromBrazil",
         "names": ["balls"]
     },
     {
@@ -14,7 +14,7 @@
         "windows": "https://github.com/Incredimods/Balls-2024-update/releases/download/Balls/Balls-windows-2024-update.zip",
         "availability": "playableplus",
         "creator": "Rem @rin.Incredibox & PFB @PersonFromBrazil",
-        "and" "personFromBrazil",
+        "and": "personFromBrazil",
         "names": ["balls fv"]
     },
     {
