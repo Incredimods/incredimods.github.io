@@ -72,6 +72,9 @@
                         {% if entry.youtube %}
                             <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.youtube }}"><img class="icon" src="{{ site.url }}/assets/icons/youtube.svg" alt="YouTube Channel" /></a>
                         {% endif %}
+                        {% if entry.song or entry.original and entry.original_url or entry[lang_notes] or entry.notes %}
+                            {% if entry.and or entry.youtube %}
+                        {% endif %}
                         {% if entry.song %}
                             <b>Sounds based off of: </b>{{entry.song}}<br>
                         {% endif %}
