@@ -37,16 +37,18 @@
         "webapp": "https://incredimods.github.io/Vehemence",
         "android": "https://github.com/Incredimods/Vehemence/releases/download/Vehemence/Hortasbox_Vehemence_signed.apk",
         "availability": "playableplus",
-        "creator": "Trollgame Sanctuary @T.G.S_dev",
+        "creator": "Trollgame Sanctuary",
+        "youtube": "https://youtube.com/@t.g.s_dev",
         "names": ["vehemence"]
     },
     {
-        "name": "vibin",
+        "name": "Vibin",
         "webapp": "https://incredimods.github.io/Vibin",
         "android": "https://github.com/Incredimods/Vibin/releases/download/Vibin/Dripbox_Vibin_signed.apk",
         "windows": "https://github.com/Incredimods/Vibin/releases/download/Vibin/Dripbox_Vibin.zip",
         "availability": "playableplus",
-        "creator": "Jado @diamondreaching",
+        "creator": "Jado",
+        "youtube": "https://youtube.com/@diamondreaching",
         "names": ["vibin"]
     },
     {
@@ -56,6 +58,7 @@
         "windows": "https://github.com/Incredimods/Otherside/releases/download/Otherside/Incrediblocks_Otherside.zip",
         "availability": "playableplus",
         "creator": "Siren Bread",
+        "youtube": "https://youtube.com/@siren_bread",
         "names": ["otherside"]
     }
     
