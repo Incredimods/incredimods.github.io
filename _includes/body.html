@@ -85,7 +85,7 @@
                         {% endif %}
                         {% if entry[lang_notes] %}
                             {{ entry[lang_notes] }}<br>
-                        {% elsif entry.notes %}
+                        {% endif entry.notes %}
                             {{ entry.notes }}<br>
                         {% endif %}
                         {% if entry.windows or entry.mac or entry.android or entry.mac or entry.webapp %}
