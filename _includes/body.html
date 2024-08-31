@@ -60,9 +60,15 @@
                         {% if entry.creator %}
                             <b>Made By: </b>{{entry.creator}}<br>
                         {% endif %}
+                        {% if entry.youtube %}
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.youtube }}"><img class="icon" src="{{ site.url }}/assets/icons/youtube.svg" alt="Youtbe Channel" /></a>
+                            {% endif %}
                         {% if entry.and%}
                             <b>And: </b>{{entry.and}}<br>
                         {% endif %}
+                        {% if entry.youtube %}
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.youtube }}"><img class="icon" src="{{ site.url }}/assets/icons/youtube.svg" alt="YouTube Channel" /></a>
+                            {% endif %}
                         {% if entry.song %}
                             <b>Sounds based off of: </b>{{entry.song}}<br>
                         {% endif %}
