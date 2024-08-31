@@ -28,6 +28,24 @@
         "names": ["balls fv"]
     },
     {
+        "name": "Dreamland",
+        "webapp": "https://incredimods.github.io/dreamland",
+        "availability": "playable",
+        "names": ["dreamland"]
+    },
+    {
+        "name": "Into The Pit",
+        "webapp": "https://incredimods.github.io/into-the-pit",
+        "availability": "playable",
+        "names": ["into the pit"]
+    },
+    {
+        "name": "Monochrome",
+        "webapp": "https://incredimods.github.io/Monochrome",
+        "availability": "playable",
+        "names": ["monochrome"]
+    },
+    {
         "name": "The Crime",
         "url": "https://youtu.be/7x2dxJRmgec?si=ejKNjL3leM4ZW5kh",
         "webapp": "https://Incredimods.github.io/The-Crime",
@@ -35,7 +53,7 @@
         "windows": "https://github.com/Incredimods/The-Crime/releases/download/the-crime/Incredibox_The-Crime_v1.0.1.PC.zip",
         "availability": "playableplus",
         "creator": "R.K.",
-        "names":["the crime"]
+        "names": ["the crime"]
     },
     {
         "name": "Vehemance",
