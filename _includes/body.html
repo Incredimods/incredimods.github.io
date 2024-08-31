@@ -66,6 +66,9 @@
                         {% if entry.discord %}
                             <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.discord }}"><img class="icon" src="{{ site.url }}/assets/icons/discord.svg" alt="Discord Server" /></a>
                         {% endif %}
+                        {% if entry.linktree %}
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.linktree }}"><img class="icon" src="{{ site.url }}/assets/icons/linktree.svg" alt="Discord Server" /></a>
+                        {% endif %}
                         {% if entry.and or entry.youtube or entry.song or entry.original or entry[lang_notes] or entry.notes %}
                             {% if entry.creator or entry.youtube %}
                                 <br>
@@ -79,9 +82,11 @@
                         {% if entry.discord1 %}
                             <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.discord1 }}"><img class="icon" src="{{ site.url }}/assets/icons/discord.svg" alt="Discord Server" /></a>
                         {% endif %}
+                        {% if entry.linktree1 %}
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.linktree1 }}"><img class="icon" src="{{ site.url }}/assets/icons/linktree.svg" alt="Discord Server" /></a>
+                        {% endif %}
                         {% if entry.song or entry.original and entry.original_url or entry[lang_notes] or entry.notes %}
                             {% if entry.and or entry.youtube %}
-                                <br>
                             {% endif %}
                         {% if entry.song %}
                             <b>Sounds based off of: </b>{{entry.song}}<br>
