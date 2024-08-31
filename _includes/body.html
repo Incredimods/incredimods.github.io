@@ -78,7 +78,7 @@
                         {% endif %}
                         {% if entry.original and entry.original_url %}
                             <b>Original Mod: </b><a target="_blank" rel="noopener noreferrer" href="{{entry.original_url}}"><u>{{entry.original}}</u></a><br>
-                        {% elsif entry.original%}
+                        {% endif entry.original%}
                             <b>Original Mod: </b>{{entry.original}}<br>
                         {% endif %}
                         {% if entry[lang_notes] %}
