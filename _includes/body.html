@@ -62,7 +62,7 @@
                         {% endif %}
                         {% if entry.youtube %}
                             <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.youtube }}"><img class="icon" src="{{ site.url }}/assets/icons/youtube.svg" alt="Youtbe Channel" /></a>
-                            {% endif %}
+                        {% endif %}
                         {% if entry.and or entry.youtube or entry.song or entry.original or entry[lang_notes] or entry.notes %}
                             {% if entry.creator or entry.youtube %}
                                 <br>
@@ -72,10 +72,10 @@
                         {% endif %}
                         {% if entry.youtube %}
                             <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.youtube }}"><img class="icon" src="{{ site.url }}/assets/icons/youtube.svg" alt="YouTube Channel" /></a>
-                            {% endif %}
+                        {% endif %}
                         {% if entry.song %}
                             <b>Sounds based off of: </b>{{entry.song}}<br>
-                        {% endif %}
+                        {% elsif %}
                         {% if entry.original and entry.original_url %}
                             <b>Original Mod: </b><a target="_blank" rel="noopener noreferrer" href="{{entry.original_url}}"><u>{{entry.original}}</u></a><br>
                         {% elsif entry.original%}
