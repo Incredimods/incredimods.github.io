@@ -29,13 +29,13 @@
     },
     {
         "name": "Dreamland",
-        "webapp": "https://incredimods.github.io/dreamland",
+        "webapp": "https://incredimods.github.io/Dreamland",
         "availability": "playable",
         "names": ["dreamland"]
     },
     {
         "name": "Into The Pit",
-        "webapp": "https://incredimods.github.io/into-the-pit",
+        "webapp": "https://incredimods.github.io/Into-The-Pit",
         "availability": "playable",
         "names": ["into the pit"]
     },
