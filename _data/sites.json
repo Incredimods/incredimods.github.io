@@ -47,6 +47,8 @@
     },
     {
         "name": "Orin Ayo",
+        "availability": "unavailable",
+        "creator" "Siren Bread",
         "names": ["orin ayo"]
     },
     {
@@ -62,12 +64,21 @@
     },
     {
         "name": "Runners",
+        "webapp": "https://incredimods.github.io/Runners",
+        "availability": "playable",
+        "names": ["runners"]
     },
     {
         "name": "Set Fire",
+        "webapp": "https://incredimods.github.io/Set-Fire",
+        "availability": "playable",
+        "names": ["set fire"]
     },
     {
         "name": "Stranger Think",
+        "webapp": "https://incredimods.github.io/Stranger-Think",
+        "availability": "playable",
+        "names": ["stranger think"]
     },
     {
         "name": "The Crime",
@@ -78,6 +89,12 @@
         "availability": "playableplus",
         "creator": "R.K.",
         "names": ["the crime"]
+    },
+    {
+        "name": "The Pit",
+        "webapp": "https://incredimods.github.io/The-Pit",
+        "availability": "playable",
+        "names": ["the pit"]
     },
     {
         "name": "Vehemance",
