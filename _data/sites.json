@@ -81,6 +81,11 @@
         "names": ["set fire"]
     },
     {
+        "name": "Skylines",
+        "webapp": "https://incredimods.github.io/Skylines",
+        "availability": "playable",
+        "names": ["skylines"]
+    {
         "name": "Stranger Think",
         "webapp": "https://incredimods.github.io/Stranger-Think",
         "availability": "playable",
