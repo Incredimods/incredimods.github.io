@@ -1,5 +1,14 @@
 [
     {
+        "name": "Ancient Arvo",
+        "availability": "playableminus",
+        "android": "https://github.com/Incredimods/Ancient-Arvo/releases/download/Ancient-Arvo/Incredibox_Ancient-Arvo_mobile.apk",
+        "windows": "https://github.com/Incredimods/Ancient-Arvo/releases/download/Ancient-Arvo/Incredibox_Ancient-Arvo.zip",
+        "creator": "Kelono",
+        "youtube": "https://youtube.com/@keledhei",
+        "names": ["ancient arvo"]
+    },
+    {
         "name": "Balls",
         "webapp": "https://incredimods.github.io/Balls",
         "availability": "playable",
