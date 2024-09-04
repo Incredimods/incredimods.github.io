@@ -34,6 +34,11 @@
         "names": ["dreamland"]
     },
     {
+        "name": "Hookrz",
+        "webapp": "https://incredimods.github.io/Hookrz",
+        "availability": "playable",
+        "names": ["hookrz"]
+    {
         "name": "Into The Pit",
         "webapp": "https://incredimods.github.io/Into-The-Pit",
         "availability": "playable",
