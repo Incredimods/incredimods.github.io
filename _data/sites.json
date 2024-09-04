@@ -39,6 +39,7 @@
         "availability": "playable",
         "creator": "Minecfplayer",
         "names": ["hookrz"]
+    },
     {
         "name": "Into The Pit",
         "webapp": "https://incredimods.github.io/Into-The-Pit",
@@ -55,6 +56,8 @@
         "name": "Orin Ayo",
         "availability": "unavailable",
         "creator": "Siren Bread",
+        "youtube": "https://youtube.com/@siren_bread",
+        "mod-site": "https://sites.google.com/view/sirenbread",
         "names": ["orin ayo"]
     },
     {
