@@ -90,6 +90,12 @@
         "names": ["set fire"]
     },
     {
+        "name": "Shpongle",
+        "webapp": "https://incredimods.github.io/Shpongle",
+        "availability": "playable",
+        "names": ["shpongle"]
+    },
+    {
         "name": "Skylines",
         "webapp": "https://incredimods.github.io/Skylines",
         "availability": "playable",
