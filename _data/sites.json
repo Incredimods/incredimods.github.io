@@ -2,9 +2,10 @@
     {
         "name": "Ancient Arvo",
         "url": "https://youtu.be/-oN_rqP11bk?si=buyCTBrZ81Rf536Z",
-        "availability": "playableminus",
+        "webapp": "https://incredimods.github.io/Ancient-Arvo",
         "android": "https://github.com/Incredimods/Ancient-Arvo/releases/download/Ancient-Arvo/Incredibox_Ancient-Arvo_mobile.apk",
         "windows": "https://github.com/Incredimods/Ancient-Arvo/releases/download/Ancient-Arvo/Incredibox_Ancient-Arvo.zip",
+        "availability": "playableplus",
         "creator": "Kelono",
         "youtube": "https://youtube.com/@keledhei",
         "names": ["ancient arvo"]
