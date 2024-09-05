@@ -53,8 +53,11 @@
     },
     {
         "name": "Into The Pit",
+        "url": "",
         "webapp": "https://incredimods.github.io/Into-The-Pit",
         "availability": "playable",
+        "creator": "LexLim",
+        "youtube": "",
         "names": ["into the pit"]
     },
     {
