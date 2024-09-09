@@ -41,7 +41,10 @@
     {
         "name": "Deep Blue",
         "url": "https://www.youtube.com/watch?v=oNbi2P9GJqg",
-        "availability": "unavailable",
+        "webapp": "https://incredimods.github.io/Deep-Blue",
+        "android": "https://github.com/Incredimods/Deep-Blue/releases/download/Deep-Blue/Incredibox_Deep-Blue_v1.0.0.apk",
+        "windows": "https://github.com/Incredimods/Deep-Blue/releases/download/Deep-Blue/Deep-Blue_PC.zip",
+        "availability": "playableplus",
         "creator": "Lexlim",
         "youtube": "https://www.youtube.com/@lexlimOfficial",
         "names": ["deep blue"]
