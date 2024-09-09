@@ -75,8 +75,11 @@
                         {% if entry.mod-site %}
                             <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.mod-site }}"><img class="icon" src="{{ site.url }}/assets/icons/webapp.svg" alt="Incredibox Mod Site" /></a>
                         {% endif %}
+                        {% if entry.website %}
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.website }}"><img class="icon" src="{{ site.url }}/assets/icons/website.svg" alt="Website" /></a>
+                        {% endif %}
                         {% if entry.and or entry.youtube or entry.song or entry.original or entry[lang_notes] or entry.notes %}
-                            {% if entry.creator or entry.youtube %}
+                            {% if entry.creator or entry.youtube or entry.discord or entry.linktree or entry.merch or entry.mod-site or entry.website %}
                                 <br>
                             {% endif %}
                         {% if entry.and %}
@@ -97,8 +100,11 @@
                         {% if entry.mod-site1 %}
                             <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.mod-site1 }}"><img class="icon" src="{{ site.url }}/assets/icons/mod-site.svg" alt="Discord Server" /></a>
                         {% endif %}
+                        {% if entry.website1 %}
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.website1 }}"><img class="icon" src="{{ site.url }}/assets/icons/website.svg" alt="Website" /></a>
+                        {% endif %}
                         {% if entry.song or entry.original and entry.original_url or entry[lang_notes] or entry.notes %}
-                            {% if entry.and or entry.youtube %}
+                            {% if entry.and or entry.youtube1 or entry.discord1 or entry.linktree1 or entry.merch1 or entry.mod-site1 or entry.website1 %}
                             {% endif %}
                         {% if entry.song %}
                             <b>Sounds based off of: </b>{{entry.song}}<br>
