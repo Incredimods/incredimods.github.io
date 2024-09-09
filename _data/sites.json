@@ -39,6 +39,12 @@
         "names": ["balls fv"]
     },
     {
+        "name": "Deep Blue",
+        "availability": "unavailable",
+        "creator": "Lexlim",
+        "names": ["deep blue"]
+    },
+    {
         "name": "Dreamland",
         "webapp": "https://incredimods.github.io/Dreamland",
         "availability": "playable",
@@ -103,6 +109,14 @@
         "creator": "Flow Studios",
         "youtube": "",
         "names": ["piege"]
+    },
+    {
+        "name": "Righteous",
+        "webapp": "https://incredimods.github.io/Righteous",
+        "android": "",
+        "availability": "playable",
+        "creator": "PacificY",
+        "youtube": "https://www.youtube.com/@PacificYZY",
     },
     {
         "name": "Runners",
