@@ -67,6 +67,15 @@
         "names": ["monochrome"]
     },
     {
+        "name": "Moonlight",
+        "webapp": "https://incredimods.github.io/Moonlight",
+        "android": "https://github.com/Incredimods/Moonlight/releases/download/Moonlight/Incredibox_Moonlight_signed.apk",
+        "windows": "https://github.com/Incredimods/Moonlight/releases/download/Moonlight/Incredibox_Moonlight.zip",
+        "availability": "playableplus",
+        "creator": "Incredibox Animator",
+        "youtube": "https://youtube.com/@incrediboxanimator?si=OVCJLgZ4_tLcspo0",
+        "names": ["moonlight"]
+    {
         "name": "Orin Ayo",
         "availability": "unavailable",
         "creator": "Siren Bread",
