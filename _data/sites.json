@@ -113,7 +113,7 @@
     {
         "name": "Righteous",
         "webapp": "https://incredimods.github.io/Righteous",
-        "android": "",
+        "android": "https://github.com/Incredimods/Righteous/releases/download/Righteous/Righteous.apk",
         "availability": "playable",
         "creator": "PacificY",
         "youtube": "https://www.youtube.com/@PacificYZY",
