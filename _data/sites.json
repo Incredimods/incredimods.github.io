@@ -42,6 +42,7 @@
         "name": "Deep Blue",
         "availability": "unavailable",
         "creator": "Lexlim",
+        "youtube": "https://www.youtube.com/@lexlimOfficial",
         "names": ["deep blue"]
     },
     {
@@ -63,7 +64,7 @@
         "webapp": "https://incredimods.github.io/Into-The-Pit",
         "availability": "playable",
         "creator": "LexLim",
-        "youtube": "",
+        "youtube": "https://www.youtube.com/@lexlimOfficial",
         "names": ["into the pit"]
     },
     {
