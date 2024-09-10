@@ -39,6 +39,15 @@
         "names": ["balls fv"]
     },
     {
+        "name": "Blu",
+        "webapp": "https://incredimods.github.io/Blu",
+        "android": "",
+        "windows" "",
+        "availability": "playableplus",
+        "creator": "Pummel",
+        "names": ["blu"]
+    },
+    {
         "name": "Deep Blue",
         "url": "https://www.youtube.com/watch?v=oNbi2P9GJqg",
         "webapp": "https://incredimods.github.io/Deep-Blue",
