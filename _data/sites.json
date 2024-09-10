@@ -41,8 +41,8 @@
     {
         "name": "Blu",
         "webapp": "https://incredimods.github.io/Blu",
-        "android": "",
-        "windows": "",
+        "android": "https://github.com/Incredimods/Blu/releases/download/Blu/Pummelbox_Blu_signed.apk",
+        "windows": "https://github.com/Incredimods/Blu/releases/download/Blu/Pummelbox_Blu.zip",
         "availability": "playableplus",
         "creator": "Pummel",
         "names": ["blu"]
