@@ -126,6 +126,13 @@
         "names": ["otherside"]
     },
     {
+        "name": "Perform",
+        "webapp": "https://incredimods.github.io/Perform/",
+        "android": "https://github.com/Incredimods/Perform/releases/download/Perform/loaferbox_perform.apk",
+        "availability": "playableplus",
+        "names": ["perform"]
+    },
+    {
         "name": "Piege",
         "url": "",
         "webapp": "https://incredimods.github.io/Piege",
