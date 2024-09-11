@@ -81,6 +81,16 @@
         "names": ["into the pit"]
     },
     {
+        "name": "Jura",
+        "url": "",
+        "webapp": "https://incredimods.github.io/Jura",
+        "android": "https://github.com/Incredimods/Jura/releases/download/Jura/Incredibox_Jura.apk",
+        "availability": "playableplus",
+        "creator": "Unusd3v",
+        "youtube": "",
+        "names": ["jura"]
+    },
+    {
         "name": "Monochrome",
         "webapp": "https://incredimods.github.io/Monochrome",
         "availability": "playable",
