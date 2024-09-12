@@ -48,6 +48,16 @@
         "names": ["blu"]
     },
     {
+        "name": "Cold Fog",
+        "webapp": "https://incredimods.github.io/Cold-Fog",
+        "android": "",
+        "windows": "",
+        "availability": "playableplus",
+        "creator": "Hanta Nyaw 44",
+        "youtube": "",
+        "names": ["cold fog"]
+    },
+    {
         "name": "Deep Blue",
         "url": "https://www.youtube.com/watch?v=oNbi2P9GJqg",
         "webapp": "https://incredimods.github.io/Deep-Blue",
