@@ -50,8 +50,8 @@
     {
         "name": "Cold Fog",
         "webapp": "https://incredimods.github.io/Cold-Fog",
-        "android": "",
-        "windows": "",
+        "android": "https://github.com/Incredimods/Cold-Fog/releases/download/Cold-Fog/AeghysBox-V1_Cold-Fog_signed.apk",
+        "windows": "https://github.com/Incredimods/Cold-Fog/releases/download/Cold-Fog/AeghysBox-V1_Cold-Fog.zip",
         "availability": "playableplus",
         "creator": "Hanta Nyaw 44",
         "youtube": "",
