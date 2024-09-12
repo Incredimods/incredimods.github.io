@@ -220,6 +220,8 @@
     {
         "name": "Wolfgang",
         "webapp": "https://incredimods.github.io/Wolfgang",
+        "availability": "Playable",
+        "creator": "Lexlim",
         "names": ["wolfgang"]
     }
 ]
