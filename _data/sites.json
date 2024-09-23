@@ -51,7 +51,7 @@
         "name": "Burn",
         "webapp": "https://incredimods-alt.github.io/Burn",
         "availability": "playable",
-        "names" ["burn"]
+        "names": ["burn"]
     },
     {
         "name": "Cold Fog",
