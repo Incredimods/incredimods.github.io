@@ -48,6 +48,12 @@
         "names": ["blu"]
     },
     {
+        "name": "Burn",
+        "webapp": "https://incredimods-alt.github.io/Burn",
+        "availability": "playable",
+        "names" ["burn"]
+    },
+    {
         "name": "Cold Fog",
         "webapp": "https://incredimods.github.io/Cold-Fog",
         "android": "https://github.com/Incredimods/Cold-Fog/releases/download/Cold-Fog/AeghysBox-V1_Cold-Fog_signed.apk",
