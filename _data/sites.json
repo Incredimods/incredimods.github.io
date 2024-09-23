@@ -236,7 +236,7 @@
     {
         "name": "Wolfgang",
         "webapp": "https://incredimods.github.io/Wolfgang",
-        "availability": "Playable",
+        "availability": "playable",
         "creator": "Lexlim",
         "names": ["wolfgang"]
     }
