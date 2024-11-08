@@ -171,7 +171,7 @@
         "name": "Righteous Official",
         "webapp": "https://incredimods.github.io/Righteous-Official",
         "android": "https://github.com/Incredimods/Righteous-Official/releases/download/Righteous-Official/MObox_Righteous_signed.apk",
-        "windows": "",
+        "windows": "https://github.com/Incredimods/Righteous-Official/releases/download/Righteous-Official/MObox_Righteous_PC.zip",
         "availability": "playableplus",
         "creator": "",
         "names": ["righteous official"]
