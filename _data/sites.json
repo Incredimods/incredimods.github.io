@@ -88,6 +88,14 @@
         "names": ["hookrz"]
     },
     {
+        "name": "Interstate 190",
+        "webapp": "https://incredimods.github.io/Interstate-190"
+        "availability": "playable",
+        "creator": "Overcooked Lemonade",
+        "youtube": "https://www.youtube.com/@overcookedlemonade",
+        "names" ["interstate 190"]
+    },
+    {
         "name": "Into The Pit",
         "url": "https://www.youtube.com/watch?v=oHVigvdVFYo",
         "webapp": "https://incredimods.github.io/Into-The-Pit",
@@ -158,6 +166,15 @@
         "names": ["piege"]
     },
     {
+        "name": "Pop Zey",
+        "url" "https://youtu.be/BNsIr4x1GuQ?si=S6F4E1u0zucoyqLo",
+        "webapp": "https://incredimods.github.io/Pop-Zey",
+        "availability": "unavailable",
+        "creator": "PersonFromBrazil",
+        "youtube": "https://www.youtube.com/@PersonFromBrazil",
+        "names" ["pop zey"]
+    },
+    {
         "name": "Righteous",
         "webapp": "https://incredimods.github.io/Righteous",
         "android": "https://github.com/Incredimods/Righteous/releases/download/Righteous/Righteous.apk",
@@ -209,7 +226,7 @@
     {
         "name": "TBOI V0",
         "webapp": "https://Incredimods.github.io/TBOI-V0",
-        "availability": "Playable",
+        "availability": "playable",
         "creator": "Hanta Nyaw 44",
         "names": ["tboi v0"]
     },
