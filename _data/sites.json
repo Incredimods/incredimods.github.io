@@ -93,7 +93,7 @@
         "availability": "playable",
         "creator": "Overcooked Lemonade",
         "youtube": "https://www.youtube.com/@overcookedlemonade",
-        "names" ["interstate 190"]
+        "names": ["interstate 190"]
     },
     {
         "name": "Into The Pit",
@@ -172,7 +172,7 @@
         "availability": "unavailable",
         "creator": "PersonFromBrazil",
         "youtube": "https://www.youtube.com/@PersonFromBrazil",
-        "names" ["pop zey"]
+        "names": ["pop zey"]
     },
     {
         "name": "Righteous",
