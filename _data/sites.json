@@ -175,7 +175,15 @@
         "names": ["pop zey"]
     },
     {
-        "name": "Pushing Life"
+        "name": "Pushing Life",
+        "url": "https://www.youtube.com/watch?v=sl9_hEWUt00",
+        "webapp": "https://incredimods.github.io/Pushing-Life",
+        "windows": "https://github.com/Incredimods/Pushing-Life/releases/download/Pushing-Life/Incredibox-Pushing_Life.zip",
+        "android": "https://github.com/Incredimods/Pushing-Life/releases/download/Pushing-Life/Incredibox-Pushing_Life_signed.apk",
+        "availability": "playableplus",
+        "creator": "Gumi",
+        "youtube": "https://youtube.com/@gumiwastaken?si=eMZxfpzJD32bws0u",
+        "names": ["pushing life"]
     },
     {
         "name": "Righteous",
