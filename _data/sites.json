@@ -75,6 +75,12 @@
         "names": ["deep blue"]
     },
     {
+        "name": "Destruction",
+        "availability": "unavailable",
+        "creator": "asb0",
+        "names": ["destruction"],
+    },
+    {
         "name": "Dreamland",
         "webapp": "https://incredimods.github.io/Dreamland",
         "availability": "playable",
@@ -184,6 +190,16 @@
         "creator": "Gumi",
         "youtube": "https://youtube.com/@gumiwastaken?si=eMZxfpzJD32bws0u",
         "names": ["pushing life"]
+    },
+    {
+        "name": "Resonance",
+        "url": "",
+        "webapp": "https://incredimods.github.io/Resonance",
+        "windows": "",
+        "android": "",
+        "availability": "playable",
+        "creator": "",
+        "names": ["resonance"]
     },
     {
         "name": "Righteous",
